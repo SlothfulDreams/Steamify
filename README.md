@@ -1,12 +1,14 @@
 # Steamify
 
 **__User Tables__**
+
 User
 - user_id
 - user_name
 
 **__Spotifys__**
-Songs
+
+Song
 - track_id: int
 - track_name
 - album: string
