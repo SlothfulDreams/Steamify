@@ -2,6 +2,8 @@
 
 **__User Tables__**
 User
+- user_id
+- user_name
 
 **__Spotify Table__**
 Songs
@@ -33,8 +35,6 @@ Feature
 Listen
 - user_id
 - songs_id
-
-Playlist
 
 **__Steam Table__**
 
