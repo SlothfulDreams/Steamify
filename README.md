@@ -5,7 +5,7 @@ User
 - user_id
 - user_name
 
-**__Spotify Table__**
+**__Spotifys__**
 Songs
 - track_id: int
 - track_name
@@ -36,7 +36,7 @@ Listen
 - user_id
 - songs_id
 
-**__Steam Table__**
+**__Steam Tables__**
 
 Game
  - game_id
