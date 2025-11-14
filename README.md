@@ -37,9 +37,29 @@ Listen
 Playlist
 
 **__Steam Table__**
-Genre
-
-Category
 
 Game
- - Developer release date
+ - game_id
+ - game_name
+ - required_age
+ - positive_negative_ratings_ratio
+ - median_playtime
+ - total_ratings
+ - price
+ - publisher_id
+
+Publish
+- game_id
+- publisher_id
+
+Publisher
+- publisher_id
+- publisher_name
+
+Game_Genre
+- game_id
+- genre
+
+Game_Category
+- game_id
+- category
