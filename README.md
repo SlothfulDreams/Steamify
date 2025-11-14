@@ -9,18 +9,14 @@ Songs
 - track_name
 - album: string
 - artist_id
-- duration
+- duration 
 - popularity
 - explicit: boolean
 - danceability
 - energy
-- loudness
-- speechiness
 - acousticness
 - instrumentalness
-- liveness
 - valence
-- tempo
 
 Song_Genre
 - track_id
