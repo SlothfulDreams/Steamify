@@ -9,8 +9,8 @@ User
 **__Spotifys__**
 
 Song
-- track_id: int
-- track_name
+- song_id: int
+- song_name
 - album: string
 - artist_id
 - duration 
@@ -23,7 +23,7 @@ Song
 - valence
 
 Song_Genre
-- track_id
+- song_id
 - genre
 
 Artist
@@ -31,7 +31,7 @@ Artist
 - artist_name
 
 Feature
-- track_id
+- song_id
 - artist_id
 
 Listen
