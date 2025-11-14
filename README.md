@@ -63,3 +63,6 @@ Game_Genre
 Game_Category
 - game_id
 - category
+
+
+**__Steamify Table__**  
