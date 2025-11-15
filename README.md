@@ -22,9 +22,13 @@ Song
 - instrumentalness
 - valence
 
-Song_Genre
+Songs_Genres
 - song_id
-- genre
+- song_genre_id
+
+Song_Genre
+- song_genre_id
+- song_genre
 
 Artist
 - artist_id
@@ -59,12 +63,20 @@ Publisher
 - publisher_name
 
 Game_Genre
+- game_genre_id
+- game_genre_name
+
+Games_Genres
 - game_id
 - genre
 
-Game_Category
+Games_Categories
 - game_id
-- category
+- category_id
+
+Game_Category
+- game_category_id
+- game_category_name
 
 
 **__Steamify Table__**  
