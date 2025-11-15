@@ -28,7 +28,7 @@ Songs_Genres
 
 Song_Genre
 - song_genre_id
-- song_genre
+- song_genre_name
 
 Artist
 - artist_id
