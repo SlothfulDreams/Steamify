@@ -84,7 +84,7 @@ Idea for how to match attributes
 
 | Song             | Game                                                  |
 |------------------|-------------------------------------------------------|
-| genre (only top 20)           | category or genre                                     |
+| genre (only include top 20 in matching since there are a lot of song genres)           | category or genre                                     |
 | duration         | median_playtime                                       |
 | popularity       | total_ratings                                         |
 | explicit         | required_age                                          |
