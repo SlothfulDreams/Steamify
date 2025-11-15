@@ -52,15 +52,14 @@ Game
  - median_playtime
  - total_ratings
  - price
- - publisher_id
 
-Publish
+Develop
 - game_id
-- publisher_id
+- developer_id
 
-Publisher
-- publisher_id
-- publisher_name
+Developer
+- developer_id
+- developer_name
 
 Game_Genre
 - game_genre_id
