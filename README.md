@@ -80,9 +80,11 @@ Game_Category
 
 **__Steamify Table(s)__**  
 
+Idea for how to match attributes
+
 | Song             | Game                                                  |
 |------------------|-------------------------------------------------------|
-| genre            | category or genre                                     |
+| genre (only top 20)           | category or genre                                     |
 | duration         | median_playtime                                       |
 | popularity       | total_ratings                                         |
 | explicit         | required_age                                          |
