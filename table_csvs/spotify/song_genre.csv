@@ -1,137 +1,137 @@
-﻿song_genre_name,song_genre_id
-acid jazz,1
-acid rock,2
-adult standards,3
-alternative dance,4
-alternative metal,5
-alternative r&b,6
-alternative rock,7
-anime,8
-anti-folk,9
-aor,10
-art pop,11
-art rock,12
-avant-garde,13
-bass house,14
-bassline,15
-bedroom pop,16
-big band,17
-big beat,18
-blues rock,19
-bossa nova,20
-brazilian jazz,21
-breakbeat,22
-britpop,23
-chicago drill,24
-christian alternative rock,25
-christmas,26
-classic rock,27
-comedy,28
-country rock,29
-dark r&b,30
-darkwave,31
-deep house,32
-disco house,33
-downtempo,34
-drift phonk,35
-drill,36
-drum and bass,37
-dubstep,38
-east coast hip hop,39
-edm,40
-electro,41
-electro swing,42
-electroclash,43
-electronic,44
-emo,45
-emo rap,46
-eurodance,47
-exotica,48
-experimental,49
-french house,50
-funk rock,51
-future bass,52
-g-funk,53
-gangster rap,54
-garage rock,55
-glam metal,56
-glam rock,57
-glitch,58
-gothic rock,59
-grunge,60
-hard house,61
-hard rock,62
-hardcore hip hop,63
-hardcore techno,64
-hardstyle,65
-heavy metal,66
-hip hop,67
-house,68
-hyperpop,69
-hypertechno,70
-indie,71
-indie rock,72
-j-pop,73
-jangle pop,74
-jazz,75
-k-pop,76
-lo-fi,77
-lo-fi indie,78
-madchester,79
-melodic rap,80
-metal,81
-metalcore,82
-modern blues,83
-musicals,84
-native american music,85
-neo soul,86
-neo-psychedelic,87
-new wave,88
-noise rock,89
-nu jazz,90
-nu metal,91
-old school hip hop,92
-phonk,93
-pop,94
-pop punk,95
-post-grunge,96
-post-hardcore,97
-post-punk,98
-power pop,99
-progressive house,100
-proto-punk,101
-psychedelic rock,102
-psytrance,103
-punk,104
-queercore,105
-quiet storm,106
-r&b,107
-rap,108
-rap metal,109
-rap rock,110
-riot grrrl,111
-rock,112
-screamo,113
-shibuya-kei,114
-shoegaze,115
-slap house,116
-soft pop,117
-soft rock,118
-soundtrack,119
-southern hip hop,120
-southern rock,121
-spoken word,122
-stoner rock,123
-surf rock,124
-swing music,125
-synthpop,126
-synthwave,127
-trap,128
-trap soul,129
-trip hop,130
-uk garage,131
-vaporwave,132
-vocal jazz,133
-vocaloid,134
-west coast hip hop,135
-yacht rock,136
+﻿song_genre_id,song_genre_name
+1,acid jazz
+2,acid rock
+3,adult standards
+4,alternative dance
+5,alternative metal
+6,alternative r&b
+7,alternative rock
+8,anime
+9,anti-folk
+10,aor
+11,art pop
+12,art rock
+13,avant-garde
+14,bass house
+15,bassline
+16,bedroom pop
+17,big band
+18,big beat
+19,blues rock
+20,bossa nova
+21,brazilian jazz
+22,breakbeat
+23,britpop
+24,chicago drill
+25,christian alternative rock
+26,christmas
+27,classic rock
+28,comedy
+29,country rock
+30,dark r&b
+31,darkwave
+32,deep house
+33,disco house
+34,downtempo
+35,drift phonk
+36,drill
+37,drum and bass
+38,dubstep
+39,east coast hip hop
+40,edm
+41,electro
+42,electro swing
+43,electroclash
+44,electronic
+45,emo
+46,emo rap
+47,eurodance
+48,exotica
+49,experimental
+50,french house
+51,funk rock
+52,future bass
+53,g-funk
+54,gangster rap
+55,garage rock
+56,glam metal
+57,glam rock
+58,glitch
+59,gothic rock
+60,grunge
+61,hard house
+62,hard rock
+63,hardcore hip hop
+64,hardcore techno
+65,hardstyle
+66,heavy metal
+67,hip hop
+68,house
+69,hyperpop
+70,hypertechno
+71,indie
+72,indie rock
+73,j-pop
+74,jangle pop
+75,jazz
+76,k-pop
+77,lo-fi
+78,lo-fi indie
+79,madchester
+80,melodic rap
+81,metal
+82,metalcore
+83,modern blues
+84,musicals
+85,native american music
+86,neo soul
+87,neo-psychedelic
+88,new wave
+89,noise rock
+90,nu jazz
+91,nu metal
+92,old school hip hop
+93,phonk
+94,pop
+95,pop punk
+96,post-grunge
+97,post-hardcore
+98,post-punk
+99,power pop
+100,progressive house
+101,proto-punk
+102,psychedelic rock
+103,psytrance
+104,punk
+105,queercore
+106,quiet storm
+107,r&b
+108,rap
+109,rap metal
+110,rap rock
+111,riot grrrl
+112,rock
+113,screamo
+114,shibuya-kei
+115,shoegaze
+116,slap house
+117,soft pop
+118,soft rock
+119,soundtrack
+120,southern hip hop
+121,southern rock
+122,spoken word
+123,stoner rock
+124,surf rock
+125,swing music
+126,synthpop
+127,synthwave
+128,trap
+129,trap soul
+130,trip hop
+131,uk garage
+132,vaporwave
+133,vocal jazz
+134,vocaloid
+135,west coast hip hop
+136,yacht rock
