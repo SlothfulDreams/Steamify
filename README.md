@@ -40,7 +40,7 @@ Feature
 
 Listen
 - user_id
-- songs_id
+- song_id
 
 **__Steam Tables__**
 
@@ -67,7 +67,7 @@ Game_Genre
 
 Games_Genres
 - game_id
-- genre
+- genre_id
 
 Games_Categories
 - game_id
@@ -78,4 +78,16 @@ Game_Category
 - game_category_name
 
 
-**__Steamify Table__**  
+**__Steamify Table(s)__**  
+
+| Song             | Game                                                  |
+|------------------|-------------------------------------------------------|
+| genre            | category or genre                                     |
+| duration         | median_playtime                                       |
+| popularity       | total_ratings                                         |
+| explicit         | required_age                                          |
+| danceability     | category or genre                                     |
+| energy           | category or genre                                     |
+| acousticness     | category or genre                                     |
+| instrumentalness | category or genre                                     |
+| valence          | category or genre or positive_negative_ratings_ratio? |
