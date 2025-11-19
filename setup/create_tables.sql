@@ -43,8 +43,7 @@ CREATE TABLE Artist (
 
 DROP TABLE IF EXISTS Developer;
 
-CREATE TABLE Developer
-(
+CREATE TABLE Developer (
     developer_id INT PRIMARY KEY,
     developer_name VARCHAR(45) NOT NULL
 );
