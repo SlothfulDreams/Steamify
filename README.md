@@ -92,4 +92,4 @@ Idea for how to match attributes
 | energy           | category or genre                                     |
 | acousticness     | category or genre                                     |
 | instrumentalness | category or genre                                     |
-| valence          | category or genre or positive_negative_ratings_ratio? |
+| valence          | positive_negative_ratings_ratio |
