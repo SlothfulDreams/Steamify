@@ -1,421 +1,421 @@
-﻿song_id,song_name,album,duration,popularity,explicit,danceability,energy,acousticness,instrumentalness,valence
-1,iNSaNiTY,Lucid,4.92825,49,False,0.383,0.792,0.064,0,0.382
-2,Fighting With The Melody,The Secret Cinematic Sounds of Jimmy Urine,4.128883333,58,False,0.734,0.953,0.0163,0.0439,0.741
-3,Mr. Brightside,Hot Fuss,3.716216667,88,False,0.352,0.911,0.00121,0,0.236
-4,U With Me?,Views,4.956216667,65,True,0.429,0.43,0.338,1.18e-05,0.125
-5,Marvins Room,Take Care (Deluxe),5.7871,77,True,0.492,0.26,0.646,0.00178,0.312
-6,Legend,Phantom,3.161316667,62,False,0.294,0.707,0.0408,0.106,0.0395
-7,Basics in Behavior - Blue Version,Basics in Behavior (Blue Version),3.962516667,60,False,0.323,0.796,0.178,0,0.355
-8,Blame (feat. John Newman),Motion,3.549333333,80,False,0.414,0.857,0.0287,0.00574,0.348
-9,I Was Made For Lovin' You,Dynasty,4.520666667,84,False,0.768,0.852,0.214,7.36e-05,0.867
-10,Future People,Future People,2.62765,39,False,0.602,0.896,0.00498,3.17e-06,0.791
-11,Starburster,Romance,3.690833333,76,True,0.511,0.862,0.0656,1.86e-06,0.361
-12,Blood // Water,Blood // Water,3.612,71,False,0.51,0.882,0.00158,0.00206,0.653
-13,Burning Blue,Burning Blue,3.428733333,72,False,0.383,0.565,0.118,0,0.188
-14,Clocks,A Rush of Blood to the Head,5.131316667,85,False,0.577,0.749,0.599,0.0115,0.255
-15,Can't Take My Eyes off You,Solo,3.394666667,80,False,0.581,0.78,0.508,1.07e-05,0.561
-16,Run Boy Run,The Golden Age,3.554433333,73,False,0.506,0.959,0.084,0.000655,0.34
-17,Low (feat. T-Pain),Mail on Sunday,3.856666667,84,False,0.918,0.609,0.0928,0,0.304
-18,Tainted Love,Non-Stop Erotic Cabaret,2.563333333,79,False,0.5,0.501,0.462,0,0.623
-19,Won't Get Fooled Again - Original Album Version,Who's Next (Deluxe Edition),8.523333333,64,False,0.686,0.92,0.301,0.27,0.225
-20,Love Is Love,One of One,3.494333333,0,False,0.771,0.764,0.567,0,0.709
-21,Bring Me To Life,Fallen,3.93155,87,False,0.331,0.943,0.00721,2.06e-06,0.296
-22,I Wanna Be A Machine,"Beat Saber (Original Game Soundtrack), Vol. V",3.427416667,55,False,0.604,0.866,0.00258,0,0.488
-23,Five Nights at Freddy's,Five Nights at Freddy's (Original Motion Picture Soundtrack),2.267016667,69,False,0.538,0.61,0.236,0.939,0.321
-24,One More Time,Discovery,5.339283333,81,False,0.613,0.697,0.0194,0,0.476
-25,Cats,Cats,1.229483333,60,False,0.771,0.482,0.000277,0.95,0.734
-26,Sun,Beacon,3.128666667,0,False,0.649,0.528,0.00965,0.000435,0.598
-27,A Sky Full of Stars,Ghost Stories,4.464433333,86,False,0.545,0.675,0.00617,0.00197,0.162
-28,From Time,Nothing Was The Same,5.369333333,67,True,0.739,0.491,0.626,0,0.448
-29,The Temple Of The King,Ritchie Blackmore's Rainbow,4.700216667,60,False,0.486,0.487,0.445,1.44e-05,0.373
-30,Summer Of '69,Reckless (30th Anniversary / Deluxe Edition),3.600883333,82,False,0.509,0.834,0.0183,0,0.774
-31,The Bidding,Marvin's Marvelous Mechanical Museum,2.676883333,65,False,0.538,0.607,0.248,5.54e-06,0.515
-32,Ms. Jackson,Stankonia,4.508433333,82,True,0.843,0.806,0.143,0,0.613
-33,Stronger,Graduation,5.197766667,82,True,0.617,0.716,0.0056,0,0.496
-34,Practice,Take Care (Deluxe),3.962216667,78,True,0.446,0.239,0.574,7.76e-05,0.31
-35,Feel the Love (feat. John Newman),Home,4.086433333,67,False,0.385,0.705,0.0026,0.000184,0.24
-36,Hayloft II,Inside (Deluxe),3.584,73,False,0.326,0.866,0.0044,7.37e-06,0.172
-37,Where Is My Mind?,Death to the Pixies,3.820433333,74,False,0.513,0.442,0.00731,0.000838,0.243
-38,Somewhere Only We Know,Hopes And Fears,3.936,77,False,0.453,0.655,0.0794,7.06e-06,0.366
-39,The Resistance,Thank Me Later,3.756,69,True,0.547,0.741,0.822,0,0.637
-40,Cabinet Man,Spirit Phone,4.377916667,52,False,0.725,0.497,0.0519,0.017,0.954
-41,Look Who’s Inside Again,INSIDE,1.39035,62,True,0.643,0.331,0.761,0,0.648
-42,Feel Better,Public Void,4.2105,63,True,0.594,0.335,0.747,0.0111,0.343
-43,You Didn’t Know,Hazbin Hotel (Original Soundtrack),3.144616667,66,True,0.507,0.691,0.384,0,0.621
-44,Lift Yourself Freestyle,Lift Yourself Freestyle,4.098016667,52,True,0.775,0.585,0.0629,0,0.657
-45,When I Was Your Man,Unorthodox Jukebox,3.563766667,87,False,0.612,0.28,0.932,0,0.387
-46,Over & Over,Over & Over,1.66915,67,True,0.531,0.554,0.846,0.00146,0.377
-47,Worth It,The Golden Child,3.154216667,69,False,0.749,0.535,0.517,0,0.459
-48,Sabotage,Ill Communication,2.974,73,True,0.324,0.938,0.032,0.0321,0.543
-49,SimpsonWave1995,"FrankJavCee Collection, Vol. 1, Pt. II",2.3767,63,False,0.661,0.375,0.0566,0.555,0.645
-50,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,2.626,81,False,0.755,0.522,0.533,0,0.925
-51,Hidden In the Sand,Marvin's Marvelous Mechanical Museum,1.882666667,70,False,0.547,0.287,0.514,0.774,0.177
-52,Because I Got High,The Good Times,3.296,67,True,0.802,0.341,0.169,0,0.849
-53,Goodbyes (feat. Young Thug),Hollywood's Bleeding,2.914216667,76,True,0.547,0.653,0.456,0,0.163
-54,Never Let Me Down Again,Music for the Masses (Deluxe),4.802,66,False,0.584,0.897,0.297,0.0329,0.577
-55,Shooting Stars,Bag Raiders (Deluxe),3.930216667,68,False,0.636,0.72,0.0893,0.0178,0.425
-56,The Lamp Is Low,sad songs compilation: crying myself to sleep,2.8465,2,False,0.486,0.313,0.894,0.948,0.199
-57,Where'd All the Time Go?,"Shame, Shame (Deluxe Edition)",3.913333333,79,False,0.454,0.82,0.132,0.000969,0.575
-58,Devil Town,Cavetown,2.99925,71,False,0.576,0.759,0.12,0,0.501
-59,Blinding Lights,After Hours,3.334,90,False,0.513,0.73,0.00143,9.54e-05,0.334
-60,Invader Invader,Kyary Pamyu Pamyu Songs for Music Festival - フェスで聴きたいきゃりーぱみゅぱみゅ,4.1957,40,False,0.536,0.923,0.0406,1.72e-06,0.776
-61,Love,The Way It Is,4.25555,82,False,0.688,0.518,0.0642,0,0.314
-62,Tomorrow 2 (with Cardi B),"Anyways, Life’s Great…",3.49685,69,True,0.839,0.813,0.0744,0,0.711
-63,Can You Feel My Heart,Sempiternal (Expanded Edition),3.802433333,78,True,0.15,0.859,0.00201,0.194,0.354
-64,Drop That Low (When I Dip),Drop That Low (When I Dip),2.66665,65,False,0.586,0.896,0.00945,0.836,0.103
-65,My Time,Pale Machine,5.2328,57,False,0.445,0.361,0.608,0,0.0677
-66,Centuries,American Beauty/American Psycho,3.806,4,False,0.383,0.861,0.0038,0,0.48
-67,1985,THE INSIDE OUTTAKES,2.444233333,67,True,0.646,0.724,0.0432,0,0.894
-68,Heart-Shaped Box,In Utero (Deluxe Edition),4.686,81,False,0.256,0.641,0.199,0.0329,0.382
-69,Amygdala's Rag Doll,Thanks to You Song,4.5897,61,False,0.592,0.793,0.718,0.035,0.607
-70,M a k e I t T o T h e M o r n i n g,PARTYNEXTDOOR 4 (P4),2.80755,82,True,0.677,0.622,0.0831,0.00749,0.0903
-71,In This Shirt,Mirror Mirror,5.585766667,72,False,0.293,0.394,0.691,0.382,0.0384
-72,She's Homeless,She's Homeless,4.208316667,0,True,0.626,0.815,0.0888,0,0.373
-73,Habits (Stay High),Queen Of The Clouds,3.486,75,False,0.733,0.65,0.0703,6.59e-05,0.348
-74,Lotta True Crime,Public Void,3.371983333,63,True,0.504,0.407,0.325,0.0645,0.403
-75,9,Views,4.2631,80,True,0.68,0.712,0.000803,0.000612,0.0379
-76,Piece Of Your Heart,Piece Of Your Heart,2.54855,68,False,0.677,0.744,0.0404,0.00016,0.631
-77,Miss Alissa,Peace Love Death Metal,2.643333333,50,False,0.55,0.991,0.805,0,0.882
-78,Recognize (feat. Drake),PARTYNEXTDOOR TWO,5.186616667,74,True,0.644,0.541,0.0102,0,0.165
-79,2 seconds - Bonus,Sailing Soul(s),2.54,65,True,0.657,0.633,0.575,0,0.493
-80,Pink Matter,channel ORANGE,4.480216667,79,True,0.392,0.233,0.951,0.000322,0.494
-81,Feel So Close - Radio Edit,18 Months,3.440216667,81,False,0.707,0.924,0.000972,0.00703,0.919
-82,Palmtree Panic,Palmtree Panic,2.823633333,0,False,0.6,0.788,0.0601,0.503,0.952
-83,Boulevard of Broken Dreams,Boulevard of Broken Dreams,4.354433333,72,True,0.49,0.679,0.00394,1.54e-05,0.506
-84,Karma,TV (Deluxe Edition),3.911916667,47,False,0.405,0.855,0.0997,2.12e-05,0.273
-85,Move Your Feet/Technologic - Radio Edit,Move Your Feet/Technologic (Radio Edit),3.7683,27,False,0.698,0.931,0.0102,0.215,0.371
-86,Paper Planes,Kala,3.42,78,False,0.447,0.848,0.033,7.46e-05,0.485
-87,Kids,Oracular Spectacular,5.047333333,81,False,0.451,0.931,0.00076,0.0049,0.172
-88,Kids,Oracular Spectacular,5.047333333,81,False,0.451,0.931,0.00076,0.0049,0.172
-89,Young,Vibes,3.152666667,78,False,0.498,0.81,0.00392,0.00717,0.594
-90,I Don't Give a Fuck,Cruisin’ Down Da Block,2.019033333,51,True,0.742,0.814,1.78e-05,0.836,0.178
-91,Bang!,OK ORCHESTRA,2.847983333,3,False,0.737,0.534,0.0174,0,0.689
-92,The Muffin Song (asdfmovie),The Muffin Song (asdfmovie),3.117416667,54,False,0.911,0.842,0.205,1.48e-05,0.578
-93,ENA MIX,ENA MIX,2.1614,0,False,0.611,0.708,0.0334,0.00108,0.283
-94,Pepper,Electriclarryland,4.954433333,67,False,0.631,0.804,0.00589,0.00116,0.671
-95,Closer,Only By The Night,3.958,72,False,0.398,0.768,0.469,2.02e-05,0.235
-96,Fly Away,5,3.688866667,75,False,0.587,0.872,0.018,0,0.735
-97,Baby Hotline,Baby Hotline / Tea Errors,4.855283333,70,False,0.74,0.357,0.377,0.047,0.453
-98,Eeeaaaooo,Eeeaaaooo,2.49165,0,False,0.69,0.5,0.0201,1.32e-05,0.501
-99,Viva La Vida,Viva La Vida or Death and All His Friends,4.03955,66,False,0.486,0.617,0.0954,3.23e-06,0.417
-100,Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix,Surprise,7.530433333,70,False,0.484,0.641,0.000779,0.278,0.181
-101,lean back,just friends,2.15,45,False,0.724,0.122,0.91,0.907,0.0906
-102,Die In a Fire (feat. EileMonty & Orko),Die In A Fire,3.091283333,62,False,0.535,0.672,0.0275,0,0.521
-103,Lust For Life,So Far Gone,2.936316667,59,True,0.462,0.422,0.939,0.0327,0.0853
-104,Drunk-Dazed,BORDER : CARNIVAL,3.221,76,False,0.599,0.869,0.000707,0,0.453
-105,Dream On,Aerosmith,4.459933333,83,False,0.392,0.476,0.397,0.000163,0.234
-106,N o C h i l l,PARTYNEXTDOOR 4 (P4),4.422883333,76,True,0.575,0.411,0.509,0.00321,0.062
-107,I Can't Decide,Ta-Dah,2.776216667,65,True,0.69,0.795,0.255,0,0.872
-108,Circles,Hollywood's Bleeding,3.588,85,False,0.695,0.763,0.189,0.00242,0.551
-109,Can't Hold Us (feat. Ray Dalton),The Heist,4.307183333,82,False,0.633,0.927,0.0267,0,0.88
-110,American Boy,Shine,4.74555,4,True,0.727,0.729,0.171,0,0.512
-111,TBH,PARTYNEXTDOOR,2.051333333,77,False,0.543,0.681,0.159,1.49e-06,0.154
-112,Devil's Blood - Vinticious Version,Vinticious Versions,3.551083333,12,False,0.626,0.447,0.127,0.0648,0.523
-113,Leave Me Lonely,The Great Expanse,3.246216667,59,False,0.763,0.874,0.27,0,0.755
-114,Favourite,Romance,4.267766667,70,False,0.353,0.875,0.000114,1.13e-06,0.424
-115,ENA REMIX,ENA REMIX,2.1616,5,False,0.612,0.696,0.0306,0.00141,0.282
-116,"What Is Love - 7"" Mix",What Is Love (Remixes),4.506216667,6,False,0.683,0.772,0.0222,0.0149,0.737
-117,Go,Born In The Echoes,4.344933333,60,True,0.751,0.897,0.00957,2.88e-05,0.482
-118,9mm,Memphis Cult Vol. 6,1.44515,0,True,0.739,0.913,0.00311,2.61e-05,0.307
-119,WHAT YOU WANT!,WHAT YOU WANT!,2.040233333,61,True,0.46,0.941,0.00353,1.9e-05,0.794
-120,Always Forever,Static,3.7291,79,False,0.174,0.742,0.00181,0.281,0.36
-121,SugarCrash!,SugarCrash!,1.334666667,67,True,0.748,0.734,0.524,1.15e-05,0.368
-122,Stranglehold,Ted Nugent,8.384433333,63,False,0.484,0.711,0.0183,0.173,0.49
-123,Cameras / Good Ones Go Interlude - Medley,Take Care (Deluxe),7.249333333,75,True,0.441,0.403,0.255,1.27e-05,0.158
-124,Body,Body,2.720266667,5,False,0.752,0.764,0.0476,9.5e-05,0.583
-125,Input Source Select - Vinticious Version,Vinticious Versions,2.666216667,34,False,0.768,0.801,0.0631,0.003,0.61
-126,Broken Clocks,Ctrl,3.854216667,77,True,0.692,0.684,0.131,0,0.406
-127,My Alcoholic Friends,"Yes, Virginia",2.794666667,71,False,0.596,0.679,0.18,0,0.746
-128,Say It,I Told You,3.9631,78,True,0.546,0.529,0.0869,6.37e-06,0.248
-129,POWER,My Beautiful Dark Twisted Fantasy,4.868216667,78,True,0.542,0.914,0.0161,0,0.576
-130,Hell’s Greatest Dad,Hazbin Hotel (Original Soundtrack),2.228616667,67,False,0.679,0.827,0.139,0,0.922
-131,Money Trees,"good kid, m.A.A.d city",6.448433333,78,True,0.716,0.531,0.0703,0,0.344
-132,Me or Sum (feat. Future & Lil Baby),Who is Nardo Wick?,3.758883333,60,True,0.534,0.573,0.00926,0,0.373
-133,The Night Begin to Shine,The Night Begin to Shine,3.5095,56,True,0.621,0.61,0.00429,0.0921,0.339
-134,Went Legit,Greatest Rapper Alive,2.34145,73,True,0.769,0.888,0.035,0,0.603
-135,Empire State Of Mind,The Blueprint 3,4.615333333,84,True,0.491,0.956,0.0295,0,0.811
-136,Five Nights at Freddy's,Five Nights at Freddy's,2.76385,73,False,0.491,0.771,0.00149,0.000262,0.242
-137,Everybody Talks,Picture Show,2.954666667,78,True,0.471,0.924,0.00301,0,0.716
-138,Softcore,Hard To Imagine The Neighbourhood Ever Changing,3.438,85,False,0.575,0.568,0.0484,0.000417,0.37
-139,Do Not Disturb,More Life,4.725833333,77,True,0.618,0.693,0.246,0,0.454
-140,SOMEBODY LOVES ME,$ome $exy $ongs 4 U,3.046116667,79,True,0.365,0.511,0.514,0,0.222
-141,Hansel,Hansel & Gretel,5.95375,58,False,0.787,0.208,0.827,0,0.485
-142,That's When I Think of You,...ish,4.220883333,50,False,0.566,0.789,0.00262,0.117,0.437
-143,Passing Through (Can't the Future Just Wait),Passing Through (Can't the Future Just Wait),3.219833333,64,False,0.54,0.151,0.905,3.25e-06,0.666
-144,イイコと妖狐,きくおミク7,3.8881,51,False,0.69,0.883,0.0524,0.00259,0.914
-145,In Bloom,Nevermind (Remastered),4.251333333,70,False,0.436,0.876,3.33e-05,0.000104,0.512
-146,Two Birds,Far,3.264,71,False,0.546,0.5,0.802,0.00108,0.449
-147,Nowhere To Run,The Dino Soars,5,60,False,0.809,0.668,0.678,0.0147,0.636
-148,Copycat,715,4.67745,54,False,0.379,0.671,0.265,0.000186,0.222
-149,Hey Ya!,Speakerboxxx/The Love Below,3.920216667,82,True,0.727,0.974,0.103,0.000532,0.965
-150,Every Day,Pale Machine,2.5375,60,False,0.646,0.671,0.288,0.0024,0.586
-151,Sweater Weather,I Love You.,4.006666667,91,False,0.612,0.807,0.0495,0.0177,0.398
-152,It Was A Good Day,The Predator,4.333333333,79,True,0.798,0.744,0.33,0.000106,0.794
-153,Mr. Blue Sky,Out of the Blue,5.056216667,79,False,0.388,0.338,0.652,3.73e-06,0.478
-154,PERSIAN RUGS,PARTYPACK,2.9051,69,True,0.768,0.428,0.0489,0.000491,0.147
-155,Cupid,Dinner Is Not Over / There's Something Happening / Keyman / Cupid,3.67075,66,False,0.572,0.514,0.942,0.814,0.442
-156,Counting Stars,Native,4.28775,87,False,0.663,0.706,0.0654,0,0.474
-157,The Mind Electric,Hawaii: Part II,6.222166667,0,False,0.27,0.436,0.625,0.017,0.517
-158,The Worst,Sail Out,4.24155,72,True,0.539,0.414,0.253,1.3e-06,0.123
-159,Mary On A Cross,Seven Inches of Satanic Panic,4.080066667,81,False,0.463,0.898,0.000288,0.000236,0.563
-160,Hate It Or Love It,The Documentary,3.44,82,True,0.802,0.785,0.14,0,0.435
-161,Day After Day - Remastered 2010,Straight Up (Remastered 2010 / Deluxe Edition),3.184216667,54,False,0.399,0.686,0.109,0.000874,0.377
-162,Little Dark Age,Little Dark Age,4.999333333,79,False,0.705,0.712,0.0102,0.000855,0.62
-163,Pump It,Monkey Business,3.5511,81,True,0.648,0.931,0.00937,0,0.744
-164,My Way - 2008 Remastered,Nothing But The Best (2008 Remastered),4.604216667,72,False,0.278,0.43,0.354,0,0.24
-165,All We Do,Trigga Reloaded,4.464,55,True,0.673,0.492,0.315,0,0.336
-166,Ride,Blurryface,3.5751,82,False,0.645,0.713,0.00835,0,0.566
-167,phony,phony,3.152933333,52,False,0.626,0.781,0.00649,0,0.739
-168,Blue Monday '88,The Best of New Order,4.078666667,67,False,0.681,0.893,6.47e-05,0.383,0.951
-169,You Can't Hide,You Can't Hide,4.475433333,63,False,0.742,0.552,0.151,0.00231,0.711
-170,Perfect Nothing,Nothing Perfect,2.4137,60,False,0.537,0.875,0.0761,0,0.754
-171,REVIVED,Records of the SMP,2.56295,55,False,0.651,0.647,0.525,6.37e-06,0.575
-172,Sultans Of Swing,Dire Straits,5.806666667,83,False,0.733,0.794,0.0614,0.0367,0.931
-173,Five Nights at Freddy's 4 Song,Five Nights at Freddy's Songs,3.6875,11,False,0.572,0.774,0.00898,0,0.255
-174,Hungry Like the Wolf - 2009 Remaster,Rio (Collector's Edition),3.6771,76,False,0.691,0.812,0.0433,1.16e-06,0.685
-175,Blue Hair,Death of a Party Girl,3.616666667,82,False,0.751,0.72,0.554,0.0497,0.884
-176,Tom Tom,Congrats,3.795333333,65,False,0.615,0.564,0.000345,0.927,0.243
-177,Here We Are,UNDERTALE Soundtrack,2.1032,49,False,0.741,0.676,0.723,0.873,0.861
-178,Out For Love,Hazbin Hotel (Original Soundtrack),1.505083333,65,False,0.764,0.875,0.0249,0,0.968
-179,Young And Beautiful [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix Radio Edit,Young And Beautiful [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix Radio Edit),3.785233333,32,False,0.551,0.874,0.0427,0.00129,0.421
-180,Where's Your Head At,Rooty,4.758883333,70,False,0.61,0.918,6.42e-05,0.0853,0.415
-181,Omae Wa Mou,Omae Wa Mou,1.892466667,59,False,0.728,0.67,0.569,0.798,0.701
-182,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),4.4051,84,False,0.559,0.345,0.0576,0.000105,0.458
-183,Seven Nation Army,Elephant,3.868433333,83,False,0.743,0.446,0.0039,0.118,0.278
-184,Back To Black,Back To Black (Deluxe Edition),4.02155,82,True,0.434,0.422,0.134,2.05e-05,0.377
-185,My Ordinary Life,My Ordinary Life,3.8485,73,False,0.641,0.801,0.00544,0.419,0.6
-186,Don't You (Forget About Me),Once Upon A Time (Super Deluxe),4.384,75,False,0.66,0.816,0.168,0.0181,0.678
-187,What You Know,Tourist History,3.1951,5,False,0.563,0.739,0.00073,1.45e-05,0.775
-188,LIKE ME (feat. 42 Dugg & Lil Baby),I NEVER LIKED YOU,2.216433333,60,True,0.741,0.788,0.00119,0,0.307
-189,Personal Lies,Twenty Twenty,4.992433333,53,False,0.618,0.547,0.0102,0.000403,0.572
-190,By the Sword,By the Sword,2.096866667,58,True,0.685,0.76,0.0199,0.151,0.781
-191,Run Run!,Run Run!,3.43205,57,False,0.426,0.8,0.0963,0.00186,0.377
-192,California Love - Original Version,Greatest Hits,4.748433333,80,True,0.763,0.85,0.0304,1.21e-06,0.761
-193,Rev Up Power Up,Rev Up Power Up,3.5671,54,False,0.5,0.924,0.0381,0,0.753
-194,Her Way,PARTYNEXTDOOR TWO,3.6105,77,True,0.542,0.487,0.0544,0.000885,0.119
-195,Touch-Tone Telephone,Spirit Phone,4.712266667,57,False,0.626,0.701,0.179,0.000441,0.566
-196,Coming Down,House Of Balloons (Original),4.923916667,78,False,0.694,0.649,0.303,2.41e-05,0.344
-197,Never Be Alone,Never Be Alone,3,65,False,0.63,0.686,0.029,1.36e-05,0.781
-198,Echo,Echo,3.8336,0,True,0.634,0.91,0.0892,0,0.355
-199,Numb Little Bug,Numb Little Bug,2.820616667,69,False,0.742,0.527,0.327,0,0.638
-200,Polar Opposites,For All The Dogs,4.286333333,64,True,0.44,0.274,0.0924,3.37e-06,0.343
-201,That Girl From Valley Road,That Girl From Valley Road,2.626666667,12,False,0.598,0.777,0.12,0.000112,0.706
-202,"Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone & Sarah Stiles) - Reprise",Steven Universe The Movie (Original Soundtrack),1.870016667,58,False,0.381,0.249,0.818,0,0.254
-203,Don't,T R A P S O U L,3.304883333,83,True,0.765,0.356,0.223,0,0.189
-204,Not You Too (feat. Chris Brown),Dark Lane Demo Tapes,4.494666667,83,True,0.458,0.452,0.342,1.94e-05,0.316
-205,She Sells Sanctuary,Love,4.208883333,69,False,0.55,0.765,4.76e-06,0.873,0.419
-206,Help,Uncovered,4.420666667,31,False,0.498,0.28,0.532,0,0.138
-207,Cheating,Tribute,3.703633333,51,False,0.509,0.809,0.00157,0,0.293
-208,Welcome to The Internet,INSIDE,4.599983333,66,True,0.665,0.527,0.663,0,0.219
-209,Nobody Speak (feat. Run The Jewels),The Mountain Will Fall,3.266083333,36,True,0.62,0.814,0.0403,0.0025,0.303
-210,Gold Dust - Radio Edit,Gold Dust,3.207433333,61,False,0.451,0.948,0.255,0,0.295
-211,I'm so crazy for youuu </3,I'm so crazy for youuu </3,1.83555,71,True,0.517,0.995,0.0785,0,0.803
-212,Swing Lynn,I'm Sure,5.3573,71,False,0.464,0.945,0.0506,0.756,0.453
-213,Ruler of Everything,Marvin's Marvelous Mechanical Museum,3.701766667,61,False,0.58,0.791,0.196,0.00326,0.343
-214,Chateau (Feel Alright),Twenty Twenty,4.53595,66,False,0.641,0.365,0.434,8.49e-06,0.343
-215,Locked out of Heaven,Unorthodox Jukebox,3.8913,88,False,0.726,0.698,0.049,0,0.867
-216,Open The Door (That's Not My Neighbor Song),Open The Door (That's Not My Neighbor Song),3.45,57,True,0.808,0.862,0.00662,3.17e-05,0.795
-217,Misery Meat,Misery Meat,1.070633333,1,False,0.824,0.371,0.886,3.9e-05,0.685
-218,White Room,Wheels Of Fire,4.972216667,70,False,0.553,0.576,0.191,0.00664,0.457
-219,Turn the Lights Off,Good & Evil,2.943766667,62,False,0.392,0.702,0.137,0,0.771
-220,Bohemian Rhapsody,Bohemian Rhapsody (The Original Soundtrack),5.915783333,74,False,0.39,0.395,0.288,0,0.247
-221,Can't Stop,By the Way (Deluxe Edition),4.483333333,85,False,0.618,0.938,0.0179,0,0.875
-222,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),6.522933333,84,False,0.579,0.508,0.00574,0.000494,0.609
-223,O Superman,Big Science,8.4191,53,False,0.8,0.024,0.963,0.207,0.309
-224,Le Monde - From Talk to Me,Talk to Me (Original Soundtrack),2.24755,61,False,0.768,0.469,0.135,0.863,0.5
-225,One Last Breath,Weathered,3.970666667,82,False,0.386,0.677,0.00841,0.00366,0.195
-226,An Unhealthy Obsession,An Unhealthy Obsession,2.972516667,71,False,0.761,0.529,0.175,0,0.855
-227,Exchange,T R A P S O U L,3.24355,78,True,0.525,0.433,0.107,0,0.276
-228,It's Been So Long,It's Been So Long,2.906566667,73,False,0.564,0.647,0.114,0,0.458
-229,Runaway (U & I),Pharmacy,3.78455,76,False,0.506,0.805,0.00711,0.00193,0.383
-230,Canned Heat,Synkronized,5.529333333,69,False,0.7,0.865,0.0136,7.71e-05,0.78
-231,Wonderland,<I°_°I>,3.1759,48,False,0.771,0.817,0.314,0.00338,0.523
-232,Lady - Hear Me Tonight,Modjo (Remastered),5.119216667,81,False,0.72,0.808,0.00793,0.0293,0.869
-233,Ocean Drive,Duality,3.438666667,76,False,0.67,0.776,0.00388,0.000184,0.624
-234,Rät,Public Void,3.236083333,69,True,0.609,0.449,0.326,0.000115,0.309
-235,Forever Ever (feat. Young Thug & Reese LAFLARE),LIFE'S A TRIP,3.966383333,80,True,0.69,0.424,0.396,0,0.39
-236,Money For Nothing,Brothers In Arms - 20th Anniversary Edition,8.40555,11,False,0.642,0.766,0.0407,0.000103,0.593
-237,Biohazard,CONCIENTIA,4.142,0,False,0.67,0.922,0.188,0,0.341
-238,Heaven Says.,Heaven Says.,2.025,0,True,0.53,0.657,0.0152,0.249,0.0826
-239,Hide and Seek,Hide and Seek,2.313333333,57,False,0.625,0.726,0.335,0,0.559
-240,ECHO (feat. Gumi) [dj-Jo Remix],ECHO (dj-Jo Remix),3.94285,39,False,0.669,0.86,0.00983,0.000764,0.626
-241,Join Us for a Bite,All Five Nights,3.94185,47,False,0.595,0.752,0.0461,0,0.386
-242,Survive the Night,Five Songs for Freddy,5.811016667,59,False,0.684,0.577,0.0182,0,0.246
-243,【鬼蜘蛛ト狐ノ獅子ト】The Spider and the Kitsune-Like Lion,【2013】【鬼蜘蛛ト狐ノ獅子ト】The Spider and the Kitsune-Like Lion,4.2802,0,True,0.551,0.991,0.134,0.774,0.87
-244,Thank You And Goodnight,Thank You And Goodnight,3.289133333,59,False,0.486,0.66,0.148,0,0.677
-245,Daughter,Peer Pressure,2.707233333,28,False,0.828,0.554,0.0641,0,0.33
-246,GOSSIP (feat. Tom Morello),GOSSIP (feat. Tom Morello),2.804666667,66,True,0.706,0.821,0.00164,0,0.918
-247,I Ain't Worried,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",2.47475,81,False,0.704,0.797,0.0826,0.000745,0.825
-248,Verbatim,Touch Up,2.805333333,71,True,0.827,0.58,0.309,0,0.491
-249,Seven Nation Army - The Glitch Mob Remix,Seven Nation Army (The Glitch Mob Remix),4.283683333,61,False,0.701,0.844,0.152,0.626,0.198
-250,Connect,Nothing Was The Same,4.940216667,53,True,0.683,0.49,0.406,0,0.465
-251,What I've Done,Minutes to Midnight,3.426883333,45,False,0.623,0.93,0.0141,1.64e-06,0.287
-252,When You Want Me,Porsche,3.8854,47,False,0.577,0.763,0.00178,0.000437,0.825
-253,Solo,HNDRXX,4.433266667,83,True,0.784,0.486,0.0538,0.497,0.0894
-254,living room flow - Bonus,Sailing Soul(s),4.374666667,67,True,0.698,0.423,0.607,0.000296,0.311
-255,As It Was,As It Was,2.788383333,14,False,0.52,0.731,0.342,0.00101,0.662
-256,Feel It,WITHERED,2.6329,70,False,0.62,0.594,0.0357,0,0.483
-257,AaAaAaAAaAaAAa (feat. HATSUNE MIKU),Owari,3.6611,54,False,0.336,0.946,0.00221,0.0184,0.552
-258,Cold Island,"My Singing Monsters, Vol. 2 (Original Game Soundtrack)",2.74285,59,False,0.706,0.577,0.298,6.43e-06,0.579
-259,Un-thinkable (I'm Ready) (feat. Drake) - Remix,Un-thinkable (I'm Ready) (feat. Drake) [Remix],4.700433333,76,False,0.531,0.603,0.728,0,0.228
-260,Happy Face,33,2.829333333,0,False,0.419,0.707,0.0174,0,0.37
-261,Go Kitty Go,Go Kitty Go,1.302633333,0,False,0.891,0.888,0.53,0.0297,0.643
-262,Girlfriend,Girlfriend,3.787866667,18,False,0.763,0.356,0.119,7.24e-06,0.214
-263,Rock DJ,Sing When You're Winning,4.309333333,70,False,0.708,0.772,0.0267,0,0.861
-264,Love Is A Long Road,Full Moon Fever,4.126666667,66,False,0.64,0.622,0.0303,7.63e-05,0.496
-265,Stayed Gone,Hazbin Hotel (Original Soundtrack),3.007916667,68,True,0.382,0.836,0.0725,0,0.444
-266,Casino,Casino,2.4,45,False,0.794,0.79,0.0182,0.000427,0.808
-267,dumb dumb,the rainbow cassette,2.0876,36,False,0.783,0.472,0.22,0.000458,0.589
-268,Pull Up,Strictly 4 My Fans,3.4737,57,True,0.483,0.607,0.117,0,0.302
-269,Pyramids,channel ORANGE,9.882,78,True,0.4,0.65,0.0118,7.62e-05,0.15
-270,Friday I'm In Love,Wish,3.586,78,False,0.526,0.763,0.00126,6.75e-05,0.514
-271,Metronome,Metronome,3.940733333,21,False,0.66,0.512,0.00695,5.09e-06,0.588
-272,On the Level,This Old Dog,3.794216667,68,False,0.573,0.473,0.0927,0.398,0.523
-273,Come a Little Closer,Melophobia,3.822433333,74,False,0.44,0.778,0.0265,1.04e-06,0.304
-274,Murder On The Dancefloor,Read My Lips (Deluxe Version),3.83355,79,False,0.73,0.849,0.00234,2.57e-05,0.887
-275,Again,Again,4.12435,46,False,0.411,0.9,0.0444,0,0.297
-276,Ghostbusters,Ghostbusters (Original Motion Picture Soundtrack) [2016],3.744666667,54,False,0.693,0.887,0.00905,0.000118,0.656
-277,Tell Me Why - Radio Edit,Tell Me Why,2.897766667,71,False,0.554,0.91,0.00143,0.000111,0.682
-278,Blow My Brains Out,Tikkle Me,3.706716667,62,False,0.55,0.884,0.0867,1.55e-05,0.549
-279,Labyrinth,Hawaii: Part II,2.54575,0,False,0.758,0.816,0.0365,0.000256,0.394
-280,Taking What's Not Yours,Who Really Cares,3.4275,78,False,0.712,0.914,0.65,0,0.697
-281,Deceptacon,Le Tigre,3.0771,79,True,0.603,0.864,0.055,0.00493,0.616
-282,Bitter Sweet Symphony - Remastered 2016,Urban Hymns (Remastered 2016),5.954433333,83,False,0.356,0.917,0.0335,0,0.518
-283,Are You Bored Yet? (feat. Clairo),Nothing Happens,2.966666667,76,False,0.682,0.683,0.156,2.32e-05,0.64
-284,505,Favourite Worst Nightmare (Standard Version),4.226433333,81,False,0.52,0.852,0.00237,5.79e-05,0.234
-285,MILLION DOLLAR BABY,MILLION DOLLAR BABY,2.58585,82,False,0.852,0.697,0.0973,0.00037,0.919
-286,The Reason,The Reason (20th Anniversary),3.88,83,False,0.474,0.671,0.0129,0,0.0682
-287,Belong to the City,PARTYNEXTDOOR TWO,1.633716667,79,True,0.582,0.482,0.709,0.00138,0.193
-288,Bed Peace,Sail Out,4.267983333,69,True,0.628,0.566,0.269,3.67e-05,0.299
-289,Electric Pow Wow Drum,A Tribe Called Red,3.664216667,53,False,0.658,0.573,0.023,0.0613,0.583
-290,The Chain - 2004 Remaster,Rumours (Super Deluxe),4.50355,86,False,0.545,0.67,0.009,0.000822,0.481
-291,Free Bird,Pronounced' Leh-'Nerd 'Skin-'Nerd,9.118433333,78,False,0.249,0.834,0.0742,9.69e-05,0.337
-292,Sum 2 Prove,My Turn,3.429333333,73,True,0.827,0.552,0.0169,0,0.408
-293,Break from Toronto,PARTYNEXTDOOR,1.65355,82,True,0.595,0.678,0.0199,0.00389,0.259
-294,Insane,Insane,2.6619,74,False,0.716,0.712,0.193,0,0.797
-295,Lonely Boy,El Camino,3.22755,68,False,0.356,0.872,0.00417,0.00975,0.607
-296,Alastor's Game,Alastor's Game,3.076816667,58,False,0.405,0.897,0.00637,1.79e-06,0.744
-297,"Holding Out for a Hero - From ""Footloose"" Soundtrack",Secret Dreams and Forbidden Fire,5.80555,74,False,0.616,0.685,0.0245,1.13e-05,0.895
-298,Epoch - The Living Tombstone Remix,Neon : Remixes,3.181816667,60,False,0.473,0.645,0.242,0,0.627
-299,Low Down,My Turn (Deluxe),2.41085,70,True,0.962,0.619,0.0354,0,0.154
-300,"Rhythm Is a Dancer - 7"" Edit",The Madman's Return,3.7647,72,False,0.794,0.745,0.271,0.00041,0.706
-301,Phonky Town,Phonky Town,2.355716667,62,True,0.805,0.816,0.363,0.826,0.338
-302,The Safety Dance,Greatest,2.747766667,61,False,0.525,0.882,0.0252,0,0.623
-303,i wanna be your girlfriend,i wanna be your girlfriend,3.4165,74,True,0.541,0.382,0.0215,0.000836,0.343
-304,There's Something Happening,Dinner Is Not Over / There's Something Happening / Keyman / Cupid,3.091716667,60,False,0.654,0.696,0.372,0.0187,0.923
-305,Honey,Honey,3.32015,62,True,0.606,0.24,0.772,0,0.526
-306,Right My Wrongs,T R A P S O U L,4.155333333,79,False,0.543,0.449,0.345,0,0.29
-307,Young Girl A,Alive,3.691666667,67,False,0.629,0.804,0.0169,0.000497,0.294
-308,Love Me Again,Tribute,3.998233333,78,False,0.495,0.894,0.00453,0.000596,0.213
-309,Flashing Lights,Graduation,3.958433333,86,True,0.639,0.628,0.0381,0,0.43
-310,No. 1 Party Anthem,AM,4.052183333,86,False,0.505,0.698,0.33,0.0887,0.599
-311,Goosebumps - Remix,Goosebumps (Remix),2.713366667,73,True,0.841,0.593,0.418,0,0.808
-312,Use Somebody,Only By The Night,3.846,80,False,0.276,0.715,0.00552,0.000417,0.173
-313,Bennie And The Jets - Remastered 2014,Goodbye Yellow Brick Road (Remastered),5.3758,74,False,0.665,0.673,0.259,7.62e-06,0.779
-314,This Comes From Inside,This Comes From Inside,3.396666667,58,False,0.418,0.502,0.19,6.27e-06,0.0533
-315,Reckless (Don't Be So...) - Remastered,Semantics (Remastered),5.3998,59,False,0.7,0.339,0.168,8.3e-05,0.219
-316,Jerk It Out,Love For The Streets,3.2611,70,False,0.58,0.981,0.0171,1.07e-05,0.861
-317,Memories (feat. Kid Cudi),One More Love,3.514216667,62,False,0.546,0.916,0.00144,4.34e-06,0.375
-318,From A Woman,To Be Eaten Alive,3.03455,64,False,0.291,0.371,0.0369,2.28e-05,0.156
-319,Housewife Radio,Thanks to You Song,3.8008,55,False,0.527,0.91,0.433,5.55e-06,0.924
-320,WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1),2.743816667,3,True,0.604,0.601,0.15,0.000579,0.156
-321,Burning Pile,O My Heart,4.36955,70,False,0.515,0.755,0.0633,0.00101,0.165
-322,I Can't Fix You (feat. Crusher-P),I Can't Fix You,4.6457,67,False,0.461,0.795,4.55e-05,0.106,0.364
-323,I'd Rather Sleep,Intro Bonito,1.922533333,64,False,0.766,0.58,0.0109,0.337,0.852
-324,Can I Call You Tonight?,Fuzzybrain,4.64615,75,False,0.641,0.842,0.134,0.911,0.499
-325,Radioactive,Night Visions,3.11355,80,False,0.448,0.784,0.0999,0.000108,0.237
-326,Candle Queen,Candle Queen,2.553466667,61,False,0.85,0.389,0.504,0,0.907
-327,"Paint It, Black",Aftermath,3.3711,83,False,0.464,0.795,0.0493,0.00244,0.612
-328,Blow My High,Focus More On Me (Deluxe),2.48605,76,True,0.574,0.481,0.027,0,0.104
-329,X Gon' Give It To Ya - Int'l Bonus track,Grand Champ,3.662216667,67,False,0.754,0.825,0.039,0,0.64
-330,When the War Is Over,Age Of Reason,4.808216667,36,False,0.447,0.47,0.129,1.32e-05,0.294
-331,Firestarter,Firestarter,3.608333333,40,False,0.453,0.628,0.349,0.123,0.396
-332,Cigarette Ahegao,Public Void,3.066533333,58,True,0.654,0.285,0.0966,0.0216,0.148
-333,Baby Wyd (Remix) (feat. Latto & Lakeyah),Who is Nardo Wick?? (Deluxe),3.804633333,37,True,0.694,0.676,0.0218,0,0.606
-334,To the Bone,Game On!,4.89,39,False,0.776,0.857,0.195,0,0.852
-335,Heaven 2 Hell,Heaven 2 Hell,2.5357,57,False,0.806,0.613,0.352,0,0.863
-336,Digital Silence,Digital Silence,3.300433333,60,False,0.312,0.966,0.0846,7.83e-06,0.454
-337,Always n Forever (feat. Lil Baby),RY RY WORLD,3.284,70,True,0.634,0.455,0.261,1.94e-06,0.221
-338,Lovers Rock,French Exit,3.565333333,86,False,0.559,0.871,7.53e-06,0.00545,0.572
-339,Aftershock,Aftershock,3.84,54,False,0.688,0.922,0.263,0.0302,0.695
-340,Paradise City,Appetite For Destruction,6.76,82,False,0.268,0.98,0.019,0.00692,0.39
-341,The Village,The Village,3.838216667,59,False,0.55,0.363,0.534,0,0.286
-342,Pompeii,Bad Blood,3.569116667,77,False,0.679,0.715,0.0755,0,0.571
-343,Six Days - Remix,Six Days,3.87555,69,False,0.699,0.908,0.13,0.000194,0.692
-344,Pretty Green Eyes (Sunset Ibiza Mix),Pretty Green Eyes (Sunset Ibiza Mix),4.311366667,13,False,0.599,0.927,0.00478,0.063,0.462
-345,Kickstart My Heart,Dr. Feelgood (Deluxe Version),4.733766667,6,False,0.465,0.977,0.00111,0.00298,0.233
-346,we fell in love in october,we fell in love in october / October Passed Me By,3.069216667,88,False,0.566,0.366,0.113,0.181,0.237
-347,Run Through The Jungle,Cosmo's Factory (Expanded Edition),3.0791,60,False,0.641,0.612,0.0474,0.0588,0.854
-348,Reasons,Whispering Jack,4.432883333,37,False,0.653,0.627,0.2,9.71e-05,0.635
-349,ECHO - ReAdmission Remix,ECHO / ReAdmission Remix,4.008033333,30,False,0.47,0.964,0.00597,0.000907,0.267
-350,The Less I Know The Better,Currents,3.605333333,87,True,0.64,0.74,0.0115,0.00678,0.785
-351,Honey I'm Home,Honey I'm Home,3.551416667,58,False,0.515,0.847,0.216,4.6e-06,0.599
-352,Club Paradise,Care Package,4.730266667,69,True,0.338,0.729,0.758,3.24e-05,0.543
-353,Cosby Sweater,Walking Under Stars,3.628666667,66,True,0.794,0.81,0.629,1.73e-06,0.802
-354,Remember the Name (feat. Styles of Beyond),The Rising Tied,3.84155,67,True,0.688,0.835,0.0583,2.87e-06,0.88
-355,Wednesday Night Interlude,If You're Reading This It's Too Late,3.538,63,True,0.312,0.466,0.729,7.34e-06,0.195
-356,Anonymous M,META,2.667416667,48,False,0.763,0.792,0.175,1.59e-05,0.876
-357,Cigarettes out the Window,Who Really Cares,3.316,85,False,0.625,0.659,0.12,0,0.594
-358,Iris,Dizzy up the Girl,4.82555,92,False,0.315,0.715,0.00125,7.97e-06,0.497
-359,Miss Wanna Die,Miss Wanna Die,3.393933333,60,False,0.63,0.835,0.152,2.22e-06,0.533
-360,World's Smallest Violin,OK ORCHESTRA,3.012366667,2,False,0.68,0.696,0.116,0,0.684
-361,Baby Blue - Remastered 2010,Straight Up (Remastered 2010 / Deluxe Edition),3.622433333,61,False,0.623,0.876,0.0189,0.0134,0.515
-362,Traffic Jam,Traffic Jam,4.00525,40,False,0.721,0.9,0.00131,0.000154,0.747
-363,Wicked Witch,Who is Nardo Wick?,2.720666667,56,True,0.68,0.638,0.00257,0.00196,0.322
-364,Murders,Hawaii: Part II,3.71635,0,False,0.336,0.4,0.872,0.333,0.24
-365,Hell Is Forever,Hazbin Hotel (Original Soundtrack),2.344216667,67,True,0.695,0.796,0.213,0,0.937
-366,It Ain't Over 'Til It's Over,Mama Said,4.044,79,False,0.679,0.568,0.422,0.00928,0.93
-367,Dollhouse,Cry Baby (Deluxe Edition),3.864216667,72,False,0.725,0.708,0.22,0,0.555
-368,"Never Recover (Lil Baby & Gunna, Drake)",Drip Harder,3.245533333,72,True,0.753,0.686,0.0677,0,0.886
-369,Discord,Discord,3.2296,69,False,0.677,0.83,0.00806,3.35e-05,0.829
-370,Black Out Days,Voices,3.786,67,False,0.542,0.795,0.00506,0.019,0.43
-371,+♂(プラスダンシ),松下が二次元に恋する15の理由(通常盤),3.608333333,25,False,0.603,0.977,0.0862,0,0.614
-372,Safe And Sound,In A Tidal Wave Of Mystery (Deluxe Edition),3.21315,13,False,0.655,0.819,0.000176,0.00374,0.766
-373,"Loser, Baby",Hazbin Hotel (Original Soundtrack),2.91855,69,True,0.483,0.528,0.497,0,0.628
-374,On Top,Flume,3.851766667,0,False,0.528,0.757,0.00957,5.53e-05,0.304
-375,Creep,Pablo Honey,3.977333333,91,True,0.515,0.43,0.0097,0.000133,0.104
-376,Overtime,Hardwood Classic,2.372,58,True,0.497,0.627,0.0868,0,0.528
-377,You're the Voice,Whispering Jack,5.012216667,63,False,0.502,0.66,0.393,0.000138,0.722
-378,Stuck Inside,Stuck Inside,2.881433333,64,False,0.742,0.771,0.0412,0,0.81
-379,Paris,Memories...Do Not Open,3.691766667,79,False,0.653,0.658,0.0215,1.66e-06,0.219
-380,Triflin Hoes,Just Cause Y'all Waited 2,2.4,64,True,0.798,0.792,0.0164,0.000382,0.598
-381,High ft. Nicole Millar,High,3.8,56,False,0.525,0.803,0.00129,0.000868,0.383
-382,BIG DICK RANDY,BAROWEEN,2.49185,63,True,0.622,0.54,0.173,0,0.533
-383,The Scientist,A Rush of Blood to the Head,5.16,88,False,0.557,0.442,0.731,1.46e-05,0.213
-384,Drop the Tapes,Limiter,3.8204,10,False,0.595,0.876,0.0486,0.913,0.636
-385,Shine,"Hints, Allegations & Things Left Unsaid",5.100666667,72,False,0.543,0.423,0.295,0.0862,0.355
-386,On My Knees,On My Knees,4.350016667,60,False,0.683,0.571,0.0335,0.0616,0.29
-387,stacy's brother,stacy's brother,3.04,52,False,0.576,0.753,0.267,0.0351,0.475
-388,Miku,Miku,3.718733333,68,False,0.717,0.713,0.27,0.00045,0.552
-389,The Nosebleed Section,The Calling,3.660666667,64,True,0.846,0.828,0.51,1.28e-06,0.908
-390,Below the Surface,Below the Surface,2.247616667,0,False,0.715,0.421,0.338,0,0.56
-391,Sofia,Immunity,3.139766667,42,False,0.744,0.619,0.598,0.00372,0.641
-392,Afraid,I Love You.,4.186433333,76,True,0.464,0.701,0.00892,0.309,0.356
-393,House Of The Rising Sun,The Animals,4.521333333,73,False,0.295,0.584,0.000385,0.218,0.228
-394,Lose Control,Lose Control,2.80645,69,False,0.598,0.527,0.129,0,0.53
-395,Better Now,beerbongs & bentleys,3.854433333,80,True,0.674,0.578,0.331,0,0.34
-396,Busy Earnin',Jungle,3.029533333,64,False,0.552,0.883,0.209,4.91e-06,0.745
-397,"Kernkraft 400 - DJ Gius Mix, Radio Edit",Kernkraft 400 Single Mixes,3.454433333,61,False,0.714,0.528,0.00415,0.854,0.297
-398,Texas,AMAR,2.43555,77,True,0.764,0.63,0.0125,0,0.351
-399,See You Again (feat. Kali Uchis),Flower Boy,3.006433333,88,True,0.558,0.559,0.371,7.49e-06,0.62
-400,Christmas Kids,I Can't Handle Change,2.26155,72,True,0.426,0.754,0.0104,0.114,0.556
-401,Go Kitty Go,Go Kitty Go,1.306166667,27,False,0.887,0.514,0.0837,4.94e-06,0.452
-402,all I want is you,all I want is you,2.523583333,73,True,0.46,0.999,0.112,0,0.779
-403,FUKOUNA GIRL,FUKOUNA GIRL,3.89495,61,False,0.413,0.993,0.363,0.00311,0.336
-404,"Sex, Drugs, Etc.",Pineapple Sunrise,3.279733333,80,False,0.57,0.842,0.0136,0.00876,0.47
-405,Outside (feat. Ellie Goulding),Motion,3.787766667,85,False,0.646,0.823,0.213,0,0.418
-406,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),3.581866667,55,False,0.572,0.81,0.0157,6.53e-06,0.11
-407,That’s So True,The Secret of Us (Deluxe),2.771666667,89,True,0.554,0.808,0.214,0,0.372
-408,the village - mtf version,the village (mtf version),3.068216667,39,False,0.601,0.377,0.906,0,0.318
-409,Fighter,Cheeseburger Family / Fighter,4.080183333,61,False,0.625,0.418,0.487,0.00408,0.295
-410,Relaxed Scene,Mystery Movie,1.617066667,66,False,0.548,0.0282,0.936,0.596,0.22
-411,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Hands All Over (Revised International Standard version),3.358216667,81,False,0.722,0.761,0.0119,0,0.624
-412,No Church In The Wild,Watch The Throne,4.541766667,76,True,0.654,0.75,0.244,0.0178,0.557
-413,Highest In The Room,Dance Fruits Music,2.896966667,0,True,0.736,0.719,0.39,0.000514,0.448
-414,Sweet Child O' Mine,Appetite For Destruction,5.934433333,87,False,0.445,0.952,0.09,0.0843,0.624
-415,Ain't No Rest For The Wicked - Original Version,Cage The Elephant,2.924883333,66,False,0.635,0.914,0.0597,0,0.922
-416,Casin,Points of Interest,1.769216667,54,False,0.964,0.658,0.0734,0.0348,0.731
-417,Headlock,Speak for Yourself,3.59135,4,False,0.805,0.371,0.8,0,0.808
-418,Paradise,Mylo Xyloto,4.645316667,47,False,0.449,0.585,0.0509,8.75e-05,0.212
-419,シニタイちゃん,シニタイちゃん,3.57575,52,False,0.666,0.981,0.0329,0.295,0.46
-420,Punkrocker (feat. Iggy Pop) - As featured in Superman,Soft Machine,4.1131,72,False,0.552,0.797,0.000422,0.655,0.306
+song_id,song_name,album,duration,popularity,explicit,danceability,energy,acousticness,instrumentalness,valence
+1,iNSaNiTY,Lucid,43.780003860779075,53.26086956521739,False,28.624078624078628,78.76923076923077,6.645436793643966,0.0,36.996021933125476
+2,Fighting With The Melody,The Secret Cinematic Sounds of Jimmy Urine,34.708009728543516,63.04347826086956,False,71.74447174447175,95.28205128205127,1.6921412820275208,4.621052631578948,75.59402214815613
+3,Mr. Brightside,Hot Fuss,30.02466511702594,95.65217391304347,False,24.815724815724813,90.97435897435898,0.12515534344697282,0.0,21.298785076873454
+4,U With Me?,Views,44.09739692881175,70.65217391304347,True,34.27518427518427,41.64102564102564,35.09832925030865,0.0012421052631578949,9.364584453284593
+5,Marvins Room,Take Care (Deluxe),53.527072987030884,83.69565217391303,True,42.01474201474202,24.205128205128204,67.08187259575656,0.18736842105263157,29.46994946779916
+6,Legend,Phantom,23.727117631251787,67.39130434782608,False,17.69041769041769,70.05128205128204,4.236286775415422,11.157894736842106,0.17202451349317194
+7,Basics in Behavior - Blue Version,Basics in Behavior (Blue Version),32.819918218028235,65.21739130434783,False,21.253071253071255,79.17948717948718,18.483501538387667,0.0,34.09310826792818
+8,Blame (feat. John Newman),Motion,28.130709953123777,86.95652173913044,False,32.432432432432435,85.43589743589743,2.979790429701397,0.6042105263157895,33.340501021395546
+9,I Was Made For Lovin' You,Dynasty,39.15434987992199,91.30434782608695,False,75.92137592137593,84.92307692307692,22.22183777356989,0.007747368421052632,89.14095258574349
+10,Future People,Future People,17.670546759009365,42.391304347826086,False,55.528255528255535,89.43589743589743,0.5166422214091111,0.00033368421052631583,80.96978819481778
+11,Starburster,Romance,29.736590236484822,82.6086956521739,True,44.348894348894355,85.94871794871794,6.811585070763176,0.00019578947368421054,34.73820019352758
+12,Blood // Water,Blood // Water,28.841912532341112,77.17391304347825,False,44.22604422604423,88.0,0.1635771325307901,0.21684210526315792,66.13267390603163
+13,Burning Blue,Burning Blue,26.76202329465493,78.26086956521739,False,28.624078624078628,55.48717948717949,12.252941146417298,0.0,16.13804967207827
+14,Clocks,A Rush of Blood to the Head,46.08460284836312,92.39130434782608,False,52.45700245700245,74.35897435897435,62.20126695537976,1.2105263157894737,23.34157617460488
+15,Can't Take My Eyes off You,Solo,26.375401476639063,86.95652173913044,False,52.94840294840295,77.53846153846153,52.7515836942247,0.0011263157894736843,56.24126438017419
+16,Run Boy Run,The Golden Age,28.188589737188387,79.34782608695652,False,43.73464373464374,95.8974358974359,8.72229025763409,0.06894736842105263,32.48037845392969
+17,Low (feat. T-Pain),Mail on Sunday,31.618628974256033,91.30434782608695,False,94.34889434889436,60.0,9.636105781789743,0.0,28.609826900333296
+18,Tainted Love,Non-Stop Erotic Cabaret,16.940618367300548,85.8695652173913,False,42.997542997543,48.92307692307693,47.974820727047415,0.0,62.90721427803462
+19,Won't Get Fooled Again - Original Album Version,Who's Next (Deluxe Edition),84.58052288201299,69.56521739130434,False,65.84766584766587,91.8974358974359,31.256150341926926,28.421052631578952,20.116116546607895
+20,Love Is Love,One of One,27.50651620340748,0.0,False,76.28992628992629,75.8974358974359,58.878301412995555,0.0,72.15353187829267
+21,Bring Me To Life,Fallen,32.46847821819285,94.56521739130434,False,22.235872235872236,94.25641025641025,0.7482113826440098,0.00021684210526315794,27.749704332867434
+22,I Wanna Be A Machine,"Beat Saber (Original Game Soundtrack), Vol. V",26.747080482151958,59.78260869565217,False,55.77395577395577,86.35897435897435,0.2674198057302962,0.0,48.39264595204817
+23,Five Nights at Freddy's,Five Nights at Freddy's (Original Motion Picture Soundtrack),13.577727260864652,75.0,False,47.66584766584767,60.10256410256411,24.506376583959025,98.84210526315789,30.437587356198264
+24,One More Time,Discovery,48.44481181320928,88.04347826086956,False,56.879606879606875,69.02564102564102,2.01405356894599,0.0,47.10246210084937
+25,Cats,Cats,1.8027850389533668,65.21739130434783,False,76.28992628992629,46.97435897435898,0.02827012935183356,100.0,74.8414149016235
+26,Sun,Beacon,23.356573523465656,0.0,False,61.30221130221131,51.6923076923077,1.001587505250805,0.04578947368421053,60.219331254703796
+27,A Sky Full of Stars,Ghost Stories,38.51615905067636,93.47826086956522,False,48.52579852579853,66.76923076923077,0.6402150025165234,0.2073684210526316,13.342651327814213
+28,From Time,Nothing Was The Same,48.78584858009973,72.82608695652173,True,72.35872235872236,47.8974358974359,65.00501913176643,0.0,44.09203311471885
+29,The Temple Of The King,Ritchie Blackmore's Rainbow,41.19205874831404,65.21739130434783,False,41.27764127764128,47.48717948717949,46.20949528265581,0.0015157894736842106,36.02838404472638
+30,Summer Of '69,Reckless (30th Anniversary / Deluxe Edition),28.715749731266975,89.13043478260869,False,44.103194103194106,83.07692307692307,1.8998266284265333,0.0,79.14202773895282
+31,The Bidding,Marvin's Marvelous Mechanical Museum,18.229294736033033,70.65217391304347,False,47.66584766584767,59.794871794871796,25.752488662353098,0.0005831578947368422,51.295559617245466
+32,Ms. Jackson,Stankonia,39.015514050449404,89.13043478260869,True,85.13513513513513,80.2051282051282,14.849007976404952,0.0,61.832061068702295
+33,Stronger,Graduation,46.83874238779309,89.13043478260869,True,57.37100737100737,70.97435897435896,0.5810246787928048,0.0,49.252768519514035
+34,Practice,Take Care (Deluxe),32.81651352484796,84.78260869565217,True,36.36363636363637,22.05128205128205,59.6052001253921,0.00816842105263158,29.254918825932698
+35,Feel the Love (feat. John Newman),Home,34.226245643535194,72.82608695652173,False,28.86977886977887,69.84615384615384,0.26949665919428634,0.01936842105263158,21.728846360606386
+36,Hayloft II,Inside (Deluxe),28.524141168849177,79.34782608695652,False,21.62162162162162,86.35897435897435,0.4564134709533975,0.0007757894736842106,14.41780453714654
+37,Where Is My Mind?,Death to the Pixies,31.207417690361794,80.43478260869564,False,44.5945945945946,42.871794871794876,0.7585956499639603,0.08821052631578948,22.051392323406088
+38,Somewhere Only We Know,Hopes And Fears,32.51898116703353,83.69565217391303,False,37.22358722358723,64.71794871794872,8.244613960916361,0.0007431578947368422,35.275776798193746
+39,The Resistance,Thank Me Later,30.47616525887107,75.0,True,48.77149877149878,73.53846153846153,85.35818307886964,0.0,64.4124287710999
+40,Cabinet Man,Spirit Phone,37.53428337497648,56.52173913043478,False,70.63882063882065,48.51282051282052,5.388940447929941,1.7894736842105265,98.49478550693475
+41,Look Who’s Inside Again,INSIDE,3.628457185845992,67.39130434782608,True,60.565110565110565,31.48717948717949,79.02378001369976,0.0,65.59509730136546
+42,Feel Better,Public Void,35.634275426981276,68.47826086956522,True,54.54545454545454,31.897435897435905,77.56998258890668,1.168421052631579,32.80292441672939
+43,You Didn’t Know,Hazbin Hotel (Original Soundtrack),23.53758971088339,71.73913043478261,True,43.857493857493864,68.41025641025641,39.875092217485935,0.0,62.69218363616816
+44,Lift Yourself Freestyle,Lift Yourself Freestyle,34.357704637783854,56.52173913043478,True,76.78132678132678,57.53846153846154,6.531209853124508,0.0,66.56273518976455
+45,When I Was Your Man,Unorthodox Jukebox,28.294513532585015,94.56521739130434,False,56.756756756756765,26.256410256410263,96.78087713081533,0.0,37.53359853779164
+46,Over & Over,Over & Over,6.792552048044286,72.82608695652173,True,46.805896805896815,54.35897435897437,87.85040723565778,0.15368421052631578,36.458445328459305
+47,Worth It,The Golden Child,23.64653989265205,75.0,False,73.5872235872236,52.410256410256416,53.68616775302026,0.0,45.27470164498442
+48,Sabotage,Ill Communication,21.60126503563196,79.34782608695652,True,21.37592137592138,93.74358974358974,3.322471251259768,3.3789473684210525,54.305988603375994
+49,SimpsonWave1995,"FrankJavCee Collection, Vol. 1, Pt. II",14.822520913712875,68.47826086956522,False,62.77641277641279,36.00000000000001,5.87700101196762,58.42105263157896,65.27255133856576
+50,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,17.651820946517876,88.04347826086956,False,74.32432432432432,51.07692307692308,55.347650524212355,0.0,95.37684119987101
+51,Hidden In the Sand,Marvin's Marvelous Mechanical Museum,9.215747848074429,76.08695652173913,False,48.77149877149878,26.97435897435897,53.37463973342174,81.47368421052633,14.955381141812708
+52,Because I Got High,The Good Times,25.25563571578924,72.82608695652173,True,80.0982800982801,32.51282051282052,17.548917479592113,0.0,87.20567680894528
+53,Goodbyes (feat. Young Thug),Hollywood's Bleeding,20.92278534843544,82.6086956521739,True,48.77149877149878,64.51282051282051,47.351764687850384,0.0,13.450166648747448
+54,Never Let Me Down Again,Music for the Masses (Deluxe),42.347195480748454,71.73913043478261,False,53.31695331695331,89.53846153846153,30.8407796491289,3.463157894736842,57.9615095151059
+55,Shooting Stars,Bag Raiders (Deluxe),32.45334625228575,73.91304347826086,False,59.70515970515971,71.38461538461539,9.272656425591471,1.8736842105263158,41.61918073325449
+56,The Lamp Is Low,sad songs compilation: crying myself to sleep,20.154270434016887,2.1739130434782608,False,41.27764127764128,29.641025641025642,92.83485554923409,99.78947368421053,17.320718202343837
+57,Where'd All the Time Go?,"Shame, Shame (Deluxe Edition)",32.261737678518976,85.8695652173913,False,37.34643734643735,81.64102564102564,13.706738571210385,0.10200000000000001,57.74647887323944
+58,Devil Town,Cavetown,21.887826711638084,77.17391304347825,False,52.33415233415233,75.38461538461539,12.46062649281631,0.0,49.7903451241802
+59,Blinding Lights,After Hours,25.686896851956874,97.82608695652173,False,44.5945945945946,72.41025641025641,0.14800073155086418,0.010042105263157896,31.835286528330293
+60,Invader Invader,Kyary Pamyu Pamyu Songs for Music Festival - フェスで聴きたいきゃりーぱみゅぱみゅ,35.46631056342126,43.47826086956522,False,47.42014742014742,92.2051282051282,4.215518240775521,0.00018105263157894739,79.35705838081928
+61,Love,The Way It Is,36.145546852885275,89.13043478260869,False,66.09336609336609,50.66666666666667,6.666205328283866,0.0,29.68498010966563
+62,Tomorrow 2 (with Cardi B),"Anyways, Life’s Great…",27.535077799980513,75.0,True,84.64373464373463,80.92307692307692,7.7254005949188285,0.0,72.36856252015913
+63,Can You Feel My Heart,Sempiternal (Expanded Edition),31.00313609954555,84.78260869565217,True,0.0,85.64102564102564,0.20822948200657776,20.42105263157895,33.98559294699495
+64,Drop That Low (When I Dip),Drop That Low (When I Dip),18.113156872444566,70.65217391304347,False,53.56265356265356,89.43589743589743,0.9808189706109036,88.0,6.999247392753467
+65,My Time,Pale Machine,47.236334887617275,61.95652173913043,False,36.24078624078624,34.56410256410257,63.135851014175316,0.0,3.203956563810342
+66,Centuries,American Beauty/American Psycho,31.043614122249537,4.3478260869565215,False,28.624078624078628,85.84615384615384,0.39410786703369377,0.0,47.532523384582305
+67,1985,THE INSIDE OUTTAKES,15.588955174733059,72.82608695652173,True,60.93366093366094,71.7948717948718,4.485509191094238,0.0,92.04386625094078
+68,Heart-Shaped Box,In Utero (Deluxe Edition),41.03071411771043,88.04347826086956,False,13.022113022113025,63.28205128205129,20.6641976755773,3.463157894736842,36.996021933125476
+69,Amygdala's Rag Doll,Thanks to You Song,39.93780760684351,66.30434782608695,False,54.299754299754305,78.87179487179488,74.558545066121,3.6842105263157903,61.18696914310289
+70,M a k e I t T o T h e M o r n i n g,PARTYNEXTDOOR 4 (P4),19.712227769445064,89.13043478260869,True,64.74201474201476,61.333333333333336,8.628831851754532,0.788421052631579,5.633802816901409
+71,In This Shirt,Mirror Mirror,51.24214556760994,78.26086956521739,False,17.567567567567565,37.948717948717956,71.75479288973433,40.21052631578948,0.053757660466615675
+72,She's Homeless,She's Homeless,35.60949683039674,0.0,True,58.47665847665848,81.12820512820512,9.220735088991718,0.0,36.02838404472638
+73,Habits (Stay High),Queen Of The Clouds,27.41194139662739,81.52173913043478,False,71.62162162162161,64.2051282051282,7.2996456348008545,0.006936842105263159,33.340501021395546
+74,Lotta True Crime,Public Void,26.117968834720386,68.47826086956522,True,43.48894348894349,39.282051282051285,33.74837449871507,6.7894736842105265,39.25384367272337
+75,9,Views,36.23123163125541,86.95652173913044,True,65.11056511056512,70.56410256410255,0.08289137545477379,0.06442105263157895,0.0
+76,Piece Of Your Heart,Piece Of Your Heart,16.772842657144643,73.91304347826086,False,64.74201474201476,73.84615384615384,4.19474970613562,0.016842105263157898,63.76733684550049
+77,Miss Alissa,Peace Love Death Metal,17.848536548706086,54.347826086956516,False,49.14004914004915,99.17948717948718,83.59285763447804,0.0,90.75368239974198
+78,Recognize (feat. Drake),PARTYNEXTDOOR TWO,46.712201291259696,80.43478260869564,True,60.68796068796069,53.025641025641036,1.0587009755105332,0.0,13.665197290613914
+79,2 seconds - Bonus,Sailing Soul(s),16.675808901506926,70.65217391304347,True,62.28501228501229,62.461538461538474,59.70904279859161,0.0,48.930222556714334
+80,Pink Matter,channel ORANGE,38.695283749448805,85.8695652173913,True,29.729729729729733,21.435897435897438,98.75388792160594,0.03389473684210527,49.03773787764757
+81,Feel So Close - Radio Edit,18 Months,26.89234739117684,88.04347826086956,False,68.42751842751844,92.3076923076923,0.10044078722549034,0.74,94.7317492742716
+82,Palmtree Panic,Palmtree Panic,19.89475715004881,0.0,False,55.282555282555286,78.35897435897436,6.240450368165892,52.94736842105264,98.27975486506828
+83,Boulevard of Broken Dreams,Boulevard of Broken Dreams,37.26777155124375,78.26086956521739,True,41.76904176904177,67.17948717948718,0.4086458412816246,0.0016210526315789476,50.32792172884636
+84,Karma,TV (Deluxe Edition),32.24565996828923,51.086956521739125,False,31.32678132678133,85.23076923076923,10.352620226866335,0.0022315789473684212,25.276851951403078
+85,Move Your Feet/Technologic - Radio Edit,Move Your Feet/Technologic (Radio Edit),30.615757679262174,29.34782608695652,False,67.32186732186733,93.02564102564104,1.0587009755105332,22.63157894736842,35.81335340285991
+86,Paper Planes,Kala,26.66290889696782,84.78260869565217,False,36.48648648648649,84.51282051282051,3.426313924459274,0.007852631578947368,48.07009998924847
+87,Kids,Oracular Spectacular,45.131477899942446,88.04347826086956,False,36.97788697788698,93.02564102564104,0.07842614050719504,0.5157894736842106,14.41780453714654
+88,Kids,Oracular Spectacular,45.131477899942446,88.04347826086956,False,36.97788697788698,93.02564102564104,0.07842614050719504,0.5157894736842106,14.41780453714654
+89,Young,Vibes,23.62894897788732,84.78260869565217,False,42.75184275184275,80.61538461538461,0.4065689878176345,0.7547368421052633,59.789269970970864
+90,I Don't Give a Fuck,Cruisin’ Down Da Block,10.76337004056263,55.43478260869565,True,72.72727272727272,81.02564102564102,0.0013541084585215603,88.0,15.06289646274594
+91,Bang!,OK ORCHESTRA,20.171104746514125,3.260869565217391,False,72.11302211302211,52.307692307692314,1.8063682225469775,0.0,70.00322545962801
+92,The Muffin Song (asdfmovie),The Muffin Song (asdfmovie),23.228897529205504,58.69565217391304,False,93.4889434889435,83.8974358974359,21.287253714774334,0.0015578947368421053,58.069024836039134
+93,ENA MIX,ENA MIX,12.379086108005225,0.0,False,56.63390663390664,70.15384615384615,3.4678509937390762,0.1136842105263158,26.352005160735406
+94,Pepper,Electriclarryland,44.077157911785264,72.82608695652173,False,59.0909090909091,80.0,0.6111390540206617,0.12210526315789474,68.06794968282982
+95,Closer,Only By The Night,32.768658666920054,78.26086956521739,False,30.466830466830473,76.3076923076923,48.701719439443956,0.0021263157894736845,21.191269755940223
+96,Fly Away,5,29.714270588757927,81.52173913043478,False,53.68550368550368,86.97435897435898,1.8686738264666811,0.0,74.94893022255673
+97,Baby Hotline,Baby Hotline / Tea Errors,42.95190681570578,76.08695652173913,False,72.4815724815725,34.15384615384615,39.148193505089395,4.947368421052632,44.629609719385016
+98,Eeeaaaooo,Eeeaaaooo,16.127085850619952,0.0,False,66.33906633906633,48.820512820512825,2.086743440185644,0.0013894736842105266,49.7903451241802
+99,Viva La Vida,Viva La Vida or Death and All His Friends,33.69416776309033,71.73913043478261,False,41.27764127764128,60.820512820512825,9.906096732108459,0.00034,40.75905816578862
+100,Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix,Surprise,73.31212335304355,76.08695652173913,False,41.03194103194103,63.28205128205129,0.08039915129798564,29.263157894736846,15.38544242554564
+101,lean back,just friends,12.249707767154938,48.91304347826087,False,70.51597051597051,10.051282051282051,94.49633832042619,95.47368421052633,5.666057413181378
+102,Die In a Fire (feat. EileMonty & Orko),Die In A Fire,22.932310915713707,67.39130434782608,False,47.2972972972973,66.46153846153847,2.85517922186199,0.0,51.94065154284486
+103,Lust For Life,So Far Gone,21.17359774604872,64.13043478260869,True,38.329238329238336,40.820512820512825,97.50777584321186,3.442105263157895,5.096226212235243
+104,Drunk-Dazed,BORDER : CARNIVAL,24.40446242072155,82.6086956521739,False,55.15970515970516,86.66666666666667,0.07292247882762119,0.0,44.629609719385016
+105,Dream On,Aerosmith,38.4650886529723,90.21739130434783,False,29.729729729729733,46.35897435897436,41.225046969079514,0.017157894736842108,21.08375443500699
+106,N o C h i l l,PARTYNEXTDOOR 4 (P4),38.04460904520885,82.6086956521739,True,52.211302211302204,39.69230769230769,52.85542636742421,0.3378947368421053,2.5911192344909146
+107,I Can't Decide,Ta-Dah,19.35662648551089,70.65217391304347,True,66.33906633906633,79.07692307692308,26.479387374749642,0.0,89.67852919040965
+108,Circles,Hollywood's Bleeding,28.56953707791945,92.39130434782608,False,66.95331695331694,75.7948717948718,19.625770943582236,0.25473684210526315,55.16611117084186
+109,Can't Hold Us (feat. Ray Dalton),The Heist,36.7315323753511,89.13043478260869,False,59.336609336609335,92.61538461538461,2.7721050833023853,0.0,90.53865175787551
+110,American Boy,Shine,41.706545713994174,4.3478260869565215,True,70.8845208845209,72.3076923076923,17.756602825991127,0.0,50.973013654445765
+111,TBH,PARTYNEXTDOOR,11.129942006305118,83.69565217391303,False,48.280098280098294,67.38461538461539,16.51049074759705,0.0001568421052631579,12.482528760348348
+112,Devil's Blood - Vinticious Version,Vinticious Versions,28.150570663342023,13.043478260869565,False,58.47665847665848,43.38461538461539,13.187525205212854,6.821052631578947,52.15568218471133
+113,Leave Me Lonely,The Great Expanse,24.690645801268417,64.13043478260869,False,75.30712530712532,87.17948717948718,28.03702747274224,0.0,77.0992366412214
+114,Favourite,Romance,36.284193528953736,76.08695652173913,False,24.938574938574938,87.28205128205128,0.011343773620314053,0.00011894736842105264,41.51166541232126
+115,ENA REMIX,ENA REMIX,12.38135590345874,5.434782608695652,False,56.756756756756765,68.92307692307692,3.177091508780459,0.14842105263157895,26.24448983980217
+116,"What Is Love - 7"" Mix",What Is Love (Remixes),38.990357158405615,6.521739130434782,False,65.47911547911548,76.71794871794872,2.3048130539046072,1.5684210526315792,75.16396086442319
+117,Go,Born In The Echoes,37.15995626720184,65.21739130434783,True,73.83292383292383,89.53846153846153,0.9932800913948444,0.003031578947368421,47.747554026448775
+118,9mm,Memphis Cult Vol. 6,4.250381140108786,0.0,True,72.35872235872236,91.17948717948718,0.3224564225260345,0.002747368421052632,28.932372863132997
+119,WHAT YOU WANT!,WHAT YOU WANT!,11.003968358635102,66.30434782608695,True,38.08353808353809,94.05128205128204,0.3660703452698271,0.002,81.29233415761747
+120,Always Forever,Static,30.170877770373465,85.8695652173913,False,2.948402948402947,73.64102564102564,0.1874609473666765,29.57894736842106,34.630684872594344
+121,SugarCrash!,SugarCrash!,2.9965083054465076,72.82608695652173,True,73.46437346437347,72.82051282051282,54.4130664654168,0.0012105263157894737,35.49080744006021
+122,Stranglehold,Ted Nugent,83.00414993954763,68.47826086956522,False,41.03194103194103,70.46153846153845,1.8998266284265333,18.210526315789473,48.60767659391464
+123,Cameras / Good Ones Go Interlude - Medley,Take Care (Deluxe),70.12192584312982,81.52173913043478,True,35.74938574938575,38.871794871794876,26.479387374749642,0.001336842105263158,12.91259004408128
+124,Body,Body,18.721651207390394,5.434782608695652,False,73.95577395577396,75.8974358974359,4.9424169531720645,0.010000000000000002,58.606601440705305
+125,Input Source Select - Vinticious Version,Vinticious Versions,18.108238986078277,36.95652173913043,False,75.92137592137593,79.6923076923077,6.55197838776441,0.31578947368421056,61.5095151059026
+126,Broken Clocks,Ctrl,31.590823979950493,83.69565217391303,True,66.58476658476658,67.6923076923077,13.602895898010878,0.0,39.57638963552307
+127,My Alcoholic Friends,"Yes, Virginia",19.566015116097542,77.17391304347825,False,54.79115479115479,67.17948717948718,18.69118688478668,0.0,76.1315987528223
+128,Say It,I Told You,32.82653845098466,84.78260869565217,True,48.64864864864865,51.7948717948718,9.023434009912657,0.0006705263157894737,22.58896892807225
+129,POWER,My Beautiful Dark Twisted Fantasy,43.09868692926567,84.78260869565217,True,48.15724815724817,91.28205128205128,1.6713727473876197,0.0,57.85399419417267
+130,Hell’s Greatest Dad,Hazbin Hotel (Original Soundtrack),13.141926533789992,72.82608695652173,False,64.98771498771501,82.35897435897435,14.433637283606929,0.0,95.0542952370713
+131,Money Trees,"good kid, m.A.A.d city",61.03252994953365,84.78260869565217,True,69.53316953316954,52.00000000000001,7.2996456348008545,0.0,32.910439737662614
+132,Me or Sum (feat. Future & Lil Baby),Who is Nardo Wick?,30.508888139542904,65.21739130434783,True,47.17444717444719,56.30769230769231,0.9610888627029973,0.0,36.02838404472638
+133,The Night Begin to Shine,The Night Begin to Shine,27.678642362415268,60.8695652173913,True,57.86240786240787,60.10256410256411,0.44499077690145183,9.694736842105264,32.37286313299646
+134,Went Legit,Greatest Rapper Alive,14.42246946503106,79.34782608695652,True,76.04422604422606,88.61538461538461,3.6339992708582867,0.0,60.75690785936997
+135,Empire State Of Mind,The Blueprint 3,40.22871972035255,91.30434782608695,True,41.891891891891895,95.58974358974359,3.062864568261002,0.0,83.12009461348244
+136,Five Nights at Freddy's,Five Nights at Freddy's,19.216277462852293,79.34782608695652,False,41.891891891891895,76.61538461538461,0.15423129194283455,0.027578947368421057,21.943877002472853
+137,Everybody Talks,Picture Show,21.381851478908615,84.78260869565217,True,39.434889434889435,92.3076923076923,0.3120721552060839,0.0,72.9061391248253
+138,Softcore,Hard To Imagine The Neighbourhood Ever Changing,26.86719048778407,92.39130434782608,False,52.211302211302204,55.794871794871796,5.025491091731669,0.043894736842105264,35.70583808192668
+139,Do Not Disturb,More Life,41.48278170841895,83.69565217391303,True,57.4938574938575,68.61538461538461,25.544803315954088,0.0,44.737125040318254
+140,SOMEBODY LOVES ME,$ome $exy $ongs 4 U,22.419715450027816,85.8695652173913,True,26.412776412776417,49.948717948717956,53.37463973342174,0.0,19.793570583808194
+141,Hansel,Hansel & Gretel,55.41838004867129,63.04347826086956,False,78.25552825552828,18.87179487179487,85.87739644486717,0.0,48.07009998924847
+142,That's When I Think of You,...ish,35.752115637159875,54.347826086956516,False,51.1056511056511,78.46153846153847,0.2715735126582765,12.315789473684212,42.909364584453286
+143,Passing Through (Can't the Future Just Wait),Passing Through (Can't the Future Just Wait),24.391221943459726,69.56521739130434,False,47.91154791154792,13.025641025641026,93.97712495442866,0.0003421052631578947,67.53037307816366
+144,イイコと妖狐,きくおミク7,31.97536515591697,55.43478260869565,False,66.33906633906633,88.1025641025641,5.4408617845296945,0.27263157894736845,94.19417266960544
+145,In Bloom,Nevermind (Remastered),36.09769199495736,76.08695652173913,False,35.13513513513514,87.38461538461539,0.002963669893113906,0.010947368421052631,50.973013654445765
+146,Two Birds,Far,24.892468443227024,77.17391304347825,False,48.64864864864865,48.820512820512825,83.28132961487952,0.1136842105263158,44.19954843565208
+147,Nowhere To Run,The Dino Soars,44.594292979727165,65.21739130434783,False,80.95823095823096,66.05128205128206,70.40483813814076,1.5473684210526317,64.30491345016667
+148,Copycat,715,40.93368036207272,58.69565217391304,False,28.132678132678137,66.35897435897436,27.517814106744705,0.019578947368421053,19.793570583808194
+149,Hey Ya!,Speakerboxxx/The Love Below,32.339856479610056,89.13043478260869,True,70.8845208845209,97.43589743589743,10.695301048424705,0.05600000000000001,99.67745403720032
+150,Every Day,Pale Machine,16.647436458338003,65.21739130434783,False,60.93366093366094,66.35897435897436,29.906195590333343,0.25263157894736843,58.929147403505
+151,Sweater Weather,I Love You.,33.32097556439142,98.91304347826086,False,56.756756756756765,80.3076923076923,5.1397180322511264,1.8631578947368423,38.716267068057206
+152,It Was A Good Day,The Predator,37.02830813089803,85.8695652173913,True,79.60687960687963,73.84615384615384,34.2675878647126,0.011157894736842106,81.29233415761747
+153,Mr. Blue Sky,Out of the Blue,45.23229465556867,85.8695652173913,False,29.238329238329243,32.20512820512821,67.7049286349536,0.00039263157894736846,47.31749274271584
+154,PERSIAN RUGS,PARTYPACK,20.819320501896442,75.0,True,75.92137592137593,41.43589743589744,5.077412428331423,0.05168421052631579,11.729921513815718
+155,Cupid,Dinner Is Not Over / There's Something Happening / Keyman / Cupid,29.508664946810804,71.73913043478261,False,51.842751842751845,50.25641025641026,97.81930386281037,85.6842105263158,43.44694118911946
+156,Counting Stars,Native,36.510983920901,94.56521739130434,False,63.022113022113025,69.94871794871794,6.790816536123274,0.0,46.88743145898291
+157,The Mind Electric,Hawaii: Part II,58.46463470069097,0.0,False,14.742014742014746,42.25641025641026,64.90117645856692,1.7894736842105265,51.51059025911193
+158,The Worst,Sail Out,35.9866611711393,78.26086956521739,True,47.788697788697796,40.0,26.27170202835063,0.00013684210526315792,9.149553811418127
+159,Mary On A Cross,Seven Inches of Satanic Panic,34.15399049583099,88.04347826086956,False,38.45208845208846,89.64102564102564,0.029412398757028127,0.024842105263157895,56.45629502204064
+160,Hate It Or Love It,The Documentary,26.889888442319204,89.13043478260869,True,80.0982800982801,78.05128205128206,14.537479956806436,0.0,42.69433394258682
+161,Day After Day - Remastered 2010,Straight Up (Remastered 2010 / Deluxe Edition),23.98700921067912,58.69565217391304,False,30.589680589680597,67.8974358974359,11.318357087621743,0.09200000000000001,36.458445328459305
+162,Little Dark Age,Little Dark Age,44.58672699109913,85.8695652173913,False,68.18181818181819,70.56410256410255,1.0587009755105332,0.09,62.58466831523493
+163,Pump It,Monkey Business,28.150759816746145,88.04347826086956,True,61.17936117936119,93.02564102564104,0.972511556754943,0.0,75.91656811095582
+164,My Way - 2008 Remastered,Nothing But The Best (2008 Remastered),40.102556930627394,78.26086956521739,False,15.724815724815727,41.64102564102564,36.75981202150075,0.0,21.728846360606386
+165,All We Do,Trigga Reloaded,38.51124116431008,59.78260869565217,True,64.25061425061426,48.0,32.709947766720006,0.0,32.050317170196756
+166,Ride,Blurryface,28.42313527116781,89.13043478260869,False,60.810810810810814,70.66666666666666,0.8665920300914468,0.0,56.77884098484034
+167,phony,phony,23.631975364259347,56.52173913043478,False,58.47665847665848,77.64102564102565,0.6734446579403653,0.0,75.37899150628967
+168,Blue Monday '88,The Best of New Order,34.1381019276564,72.82608695652173,False,65.23341523341526,89.12820512820512,0.006224329831578399,40.31578947368421,98.17223954413505
+169,You Can't Hide,You Can't Hide,38.640997800619616,68.47826086956522,False,72.72727272727272,54.15384615384616,15.679749362001001,0.24315789473684213,72.36856252015913
+170,Perfect Nothing,Nothing Perfect,15.242433072612936,65.21739130434783,False,47.54299754299755,87.28205128205128,7.90193313935799,0.0,76.99172132028815
+171,REVIVED,Records of the SMP,16.936267929797637,59.78260869565217,False,61.54791154791156,63.897435897435905,54.516909138616306,0.0006705263157894737,57.74647887323944
+172,Sultans Of Swing,Dire Straits,53.74913464601598,90.21739130434783,False,71.62162162162161,78.97435897435898,6.37544584332525,3.8631578947368426,96.0219331254704
+173,Five Nights at Freddy's 4 Song,Five Nights at Freddy's Songs,29.698760316042588,11.956521739130434,False,51.842751842751845,76.92307692307692,0.9320129142071357,0.0,23.34157617460488
+174,Hungry Like the Wolf - 2009 Remaster,Rio (Collector's Edition),29.580730952459867,82.6086956521739,False,66.46191646191647,80.82051282051283,4.495893458414187,0.00012210526315789474,69.57316417589509
+175,Blue Hair,Death of a Party Girl,28.89487443003943,89.13043478260869,False,73.83292383292383,71.38461538461539,57.52834666140199,5.231578947368422,90.96871304160845
+176,Tom Tom,Congrats,30.922558360945807,70.65217391304347,False,57.125307125307124,55.38461538461539,0.03533143112939998,97.57894736842107,22.051392323406088
+177,Here We Are,UNDERTALE Soundtrack,11.7185756310327,53.26086956521739,False,72.60442260442261,66.87179487179488,75.07775843211853,91.89473684210527,88.49586066014409
+178,Out For Love,Hazbin Hotel (Original Soundtrack),4.93056317389544,70.65217391304347,False,75.42997542997543,87.28205128205128,2.5851882715432737,0.0,100.00000000000001
+179,Young And Beautiful [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix Radio Edit,Young And Beautiful [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix Radio Edit),30.807933690543358,34.78260869565217,False,49.262899262899275,87.17948717948718,4.433587854494484,0.13578947368421052,41.189119449521556
+180,Where's Your Head At,Rooty,41.85786540711211,76.08695652173913,False,56.511056511056516,91.6923076923077,0.0061724084949786465,8.978947368421053,40.54402752392216
+181,Omae Wa Mou,Omae Wa Mou,9.32696782529661,64.13043478260869,False,71.007371007371,66.25641025641026,59.08598675939457,84.00000000000001,71.2934093108268
+182,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),37.842786403250244,91.30434782608695,False,50.245700245700256,32.92307692307693,5.980843685167126,0.01105263157894737,45.16718632405119
+183,Seven Nation Army,Elephant,31.752168599205113,90.21739130434783,False,72.85012285012286,43.282051282051285,0.40449213435364434,12.421052631578947,25.814428556069245
+184,Back To Black,Back To Black (Deluxe Edition),33.48988617227408,89.13043478260869,True,34.88943488943489,40.820512820512825,13.914423917609398,0.0021578947368421056,36.458445328459305
+185,My Ordinary Life,My Ordinary Life,31.52594565612123,79.34782608695652,False,60.31941031941033,79.6923076923077,0.5644098510808839,44.10526315789474,60.43436189657026
+186,Don't You (Forget About Me),Once Upon A Time (Super Deluxe),37.60332298290454,81.52173913043478,False,62.653562653562666,81.23076923076923,17.445074806392608,1.9052631578947372,68.82055692936245
+187,What You Know,Tourist History,24.110523909491512,5.434782608695652,False,50.73710073710074,73.33333333333333,0.07531086031120984,0.0015263157894736844,79.24954305988605
+188,LIKE ME (feat. 42 Dugg & Lil Baby),I NEVER LIKED YOU,13.00365815318079,65.21739130434783,True,72.60442260442261,78.35897435897436,0.1230784899829827,0.0,28.932372863132997
+189,Personal Lies,Twenty Twenty,44.5084190479529,57.60869565217391,False,57.4938574938575,53.64102564102565,1.0587009755105332,0.04242105263157895,57.42393291043974
+190,By the Sword,By the Sword,11.646698778787751,63.04347826086956,True,65.72481572481573,75.48717948717949,2.065974905545743,15.894736842105264,79.89463498548545
+191,Run Run!,Run Run!,26.79966407304203,61.95652173913043,False,33.90663390663391,79.58974358974359,9.999555137988015,0.19578947368421054,36.458445328459305
+192,California Love - Original Version,Greatest Hits,41.739268594666015,86.95652173913044,True,75.30712530712532,84.71794871794872,3.156322974140558,0.0001273684210526316,77.74432856682078
+193,Rev Up Power Up,Rev Up Power Up,28.33234345302725,58.69565217391304,False,42.997542997543,92.3076923076923,3.9559115577767554,0.0,76.88420599935492
+194,Her Way,PARTYNEXTDOOR TWO,28.82488906643976,83.69565217391303,True,48.15724815724817,47.48717948717949,5.648547130928706,0.09315789473684212,8.719492527685194
+195,Touch-Tone Telephone,Spirit Phone,41.32881392438824,61.95652173913043,False,58.47665847665848,69.43589743589743,18.587344211587173,0.046421052631578946,56.77884098484034
+196,Coming Down,House Of Balloons (Original),43.73082496306927,84.78260869565217,False,66.83046683046683,64.1025641025641,31.46383568832594,0.002536842105263158,32.910439737662614
+197,Never Be Alone,Never Be Alone,21.896338444588757,70.65217391304347,False,58.968058968058976,67.8974358974359,3.0109432316612494,0.001431578947368421,79.89463498548545
+198,Echo,Echo,31.35684589483445,0.0,True,59.45945945945946,90.87179487179488,9.262272158271522,0.0,34.09310826792818
+199,Numb Little Bug,Numb Little Bug,19.860521076190963,75.0,False,72.72727272727272,51.5897435897436,33.95605984511408,0.0,64.51994409203313
+200,Polar Opposites,For All The Dogs,36.49490619932228,69.56521739130434,True,35.62653562653563,25.641025641025642,9.59456871250994,0.00035473684210526315,32.80292441672939
+201,That Girl From Valley Road,That Girl From Valley Road,17.659386935145914,13.043478260869565,False,55.03685503685504,77.23076923076923,12.46062649281631,0.011789473684210527,71.83098591549297
+202,"Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone & Sarah Stiles) - Reprise",Steven Universe The Movie (Original Soundtrack),9.072183285639678,63.04347826086956,False,28.37837837837838,23.07692307692308,84.94281238607161,0.0,23.23406085367165
+203,Don't,T R A P S O U L,25.356452460066485,90.21739130434783,True,75.55282555282557,34.05128205128205,23.156421832365446,0.0,16.245564993011506
+204,Not You Too (feat. Chris Brown),Dark Lane Demo Tapes,38.859276470965185,90.21739130434783,True,37.837837837837846,43.897435897435905,35.51369994310668,0.002042105263157895,29.900010751532093
+205,She Sells Sanctuary,Love,35.61592790994905,75.0,False,49.14004914004915,76.0,0.0,91.89473684210527,40.97408880765509
+206,Help,Uncovered,38.01945215316506,33.69565217391304,False,42.75184275184275,26.256410256410263,55.24380785101285,0.0,10.762283625416625
+207,Cheating,Tribute,29.881857145509706,55.43478260869565,False,44.103194103194106,80.51282051282051,0.16253870579879504,0.0,27.427158370067733
+208,Welcome to The Internet,INSIDE,40.05451291929536,71.73913043478261,True,63.267813267813274,51.5897435897436,68.84719804014817,0.0,19.471024621008496
+209,Nobody Speak (feat. Run The Jewels),The Mountain Will Fall,24.916112142084806,39.130434782608695,True,57.739557739557746,81.02564102564102,4.18436543881567,0.26315789473684215,28.502311579400065
+210,Gold Dust - Radio Edit,Gold Dust,24.250494625341872,66.30434782608695,False,36.97788697788698,94.76923076923076,26.479387374749642,0.0,27.6421890119342
+211,I'm so crazy for youuu </3,I'm so crazy for youuu </3,8.6810218653678,77.17391304347825,True,45.085995085995094,99.58974358974359,8.151155555036805,0.0,82.25997204601659
+212,Swing Lynn,I'm Sure,48.64928255742964,77.17391304347825,False,38.57493857493858,94.46153846153845,5.253944972770583,79.57894736842105,44.629609719385016
+213,Ruler of Everything,Marvin's Marvelous Mechanical Museum,29.86067239550956,66.30434782608695,False,52.825552825552826,78.66666666666667,20.35266965597878,0.3431578947368421,32.80292441672939
+214,Chateau (Feel Alright),Twenty Twenty,39.32780007871167,71.73913043478261,False,60.31941031941033,34.97435897435898,45.06722587746124,0.0008936842105263158,32.80292441672939
+215,Locked out of Heaven,Unorthodox Jukebox,32.01168188317319,95.65217391304347,False,70.76167076167076,69.12820512820512,5.087796695651373,0.0,89.14095258574349
+216,Open The Door (That's Not My Neighbor Song),Open The Door (That's Not My Neighbor Song),27.003378214994903,61.95652173913043,True,80.83538083538085,85.94871794871794,0.6869442054563012,0.003336842105263158,81.39984947855072
+217,Misery Meat,Misery Meat,0.0,1.0869565217391304,False,82.80098280098281,35.58974358974359,92.00411416363804,0.004105263157894737,69.57316417589509
+218,White Room,Wheels Of Fire,44.27898056509285,76.08695652173913,False,49.508599508599524,56.61538461538461,19.83345628998125,0.6989473684210527,45.05967100311795
+219,Turn the Lights Off,Good & Evil,21.258147626692107,67.39130434782608,False,29.729729729729733,69.53846153846153,14.225951937207917,0.0,78.81948177615313
+220,Bohemian Rhapsody,Bohemian Rhapsody (The Original Soundtrack),54.987497207962925,80.43478260869564,False,29.484029484029485,38.05128205128206,29.906195590333343,0.0,22.48145360713902
+221,Can't Stop,By the Way (Deluxe Edition),38.73065472103342,92.39130434782608,False,57.4938574938575,93.74358974358974,1.8582895591467306,0.0,90.00107515320936
+222,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),61.878028755967556,91.30434782608695,False,52.7027027027027,49.64102564102565,0.5955626530407357,0.052,61.40199978496937
+223,O Superman,Big Science,83.39758115527303,57.60869565217391,False,79.85257985257985,0.0,100.00000000000001,21.789473684210527,29.147403504999467
+224,Le Monde - From Talk to Me,Talk to Me (Original Soundtrack),13.356800499606312,66.30434782608695,False,75.92137592137593,45.64102564102564,14.018266590808905,90.8421052631579,49.68282980324697
+225,One Last Breath,Weathered,32.91241238275892,89.13043478260869,False,28.992628992628994,66.97435897435898,0.8728225904834173,0.38526315789473686,16.890656918610905
+226,An Unhealthy Obsession,An Unhealthy Obsession,21.584430723134723,77.17391304347825,False,75.06142506142507,51.7948717948718,18.171973518789148,0.0,87.85076873454469
+227,Exchange,T R A P S O U L,24.66038185810524,84.78260869565217,True,46.06879606879607,41.94871794871795,11.110671741222731,0.0,25.59939791420278
+228,It's Been So Long,It's Been So Long,20.83596567233853,79.34782608695652,False,50.85995085995085,63.897435897435905,11.837570453619275,0.0,45.16718632405119
+229,Runaway (U & I),Pharmacy,30.80017855986017,82.6086956521739,False,43.73464373464374,80.1025641025641,0.7378271153240592,0.20315789473684212,37.10353725405871
+230,Canned Heat,Synkronized,50.60168494291081,75.0,False,67.56756756756758,86.25641025641025,1.411766064388854,0.008115789473684212,79.78711966455222
+231,Wonderland,<I°_°I>,23.89262354595418,52.17391304347826,False,76.28992628992629,81.33333333333333,32.606105093520505,0.35578947368421054,52.15568218471133
+232,Lady - Hear Me Tonight,Modjo (Remastered),45.94728022342553,88.04347826086956,False,70.02457002457004,80.41025641025641,0.8229781073476542,3.0842105263157897,89.35598322760995
+233,Ocean Drive,Duality,26.87475647641211,82.6086956521739,False,63.882063882063896,77.12820512820512,0.4024152808896543,0.01936842105263158,63.014729598967854
+234,Rät,Public Void,24.575642824057724,75.0,True,56.38820638820639,43.58974358974359,33.85221717191458,0.012105263157894739,29.147403504999467
+235,Forever Ever (feat. Young Thug & Reese LAFLARE),LIFE'S A TRIP,32.86380092256352,86.95652173913044,True,66.33906633906633,41.02564102564103,41.12120429588001,0.0,37.85614450059134
+236,Money For Nothing,Brothers In Arms - 20th Anniversary Edition,83.24380251329745,11.956521739130434,False,60.442260442260455,76.1025641025641,4.225902508095472,0.010842105263157896,59.68175465003763
+237,Biohazard,CONCIENTIA,34.85687048415279,0.0,False,63.882063882063896,92.1025641025641,19.52192827038273,0.0,32.58789377486292
+238,Heaven Says.,Heaven Says.,10.831085608708786,0.0,True,46.68304668304669,64.92307692307692,1.577914341508064,26.210526315789476,4.805934845715515
+239,Hide and Seek,Hide and Seek,14.103374050408249,61.95652173913043,False,58.353808353808354,72.0,34.78680123071013,0.0,56.02623373830772
+240,ECHO (feat. Gumi) [dj-Jo Remix],ECHO (dj-Jo Remix),32.59672166131638,42.391304347826086,False,63.75921375921377,85.74358974358974,1.020279186426716,0.08042105263157896,63.22976024083433
+241,Join Us for a Bite,All Five Nights,32.585372684048814,51.086956521739125,False,54.668304668304664,74.66666666666667,4.786652943372805,0.0,37.42608321685841
+242,Survive the Night,Five Songs for Freddy,53.7985026971299,64.13043478260869,False,65.60196560196562,56.717948717948715,1.8894423611065827,0.0,22.373938286205785
+243,【鬼蜘蛛ト狐ノ獅子ト】The Spider and the Kitsune-Like Lion,【2013】【鬼蜘蛛ト狐ノ獅子ト】The Spider and the Kitsune-Like Lion,36.42529914253085,0.0,True,49.262899262899275,99.17948717948718,13.914423917609398,81.47368421052633,89.46349854854319
+244,Thank You And Goodnight,Thank You And Goodnight,25.177706068102275,64.13043478260869,False,41.27764127764128,65.23076923076923,15.368221342402483,0.0,68.71304160842922
+245,Daughter,Peer Pressure,18.573736196103756,30.43478260869565,False,83.2923832923833,54.35897435897437,6.655821060963916,0.0,31.40522524459736
+246,GOSSIP (feat. Tom Morello),GOSSIP (feat. Tom Morello),19.67950488877323,71.73913043478261,True,68.3046683046683,81.74358974358974,0.16980769292276046,0.0,94.62423395333838
+247,I Ain't Worried,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",15.935288134798032,88.04347826086956,False,68.05896805896805,79.28205128205128,8.57691051515478,0.07842105263157895,84.62530910654769
+248,Verbatim,Touch Up,19.687070866052295,77.17391304347825,True,83.16953316953317,57.02564102564103,32.086891727522975,0.0,48.71519191484787
+249,Seven Nation Army - The Glitch Mob Remix,Seven Nation Army (The Glitch Mob Remix),36.464831409563224,66.30434782608695,False,67.69041769041769,84.1025641025641,15.783592035200508,65.89473684210527,17.213202881410602
+250,Connect,Nothing Was The Same,43.915813292530636,57.60869565217391,True,65.47911547911548,47.794871794871796,42.15963102787507,0.0,45.91979357058381
+251,What I've Done,Minutes to Midnight,26.741027686709934,48.91304347826087,False,58.108108108108105,92.92307692307693,1.4636874009886072,0.00017263157894736842,26.782066444468335
+252,When You Want Me,Porsche,31.944722917294534,51.086956521739125,False,52.45700245700245,75.7948717948718,0.1843456671706913,0.046000000000000006,84.62530910654769
+253,Solo,HNDRXX,38.16244926673643,90.21739130434783,True,77.88697788697789,47.38461538461539,5.586241527009003,52.31578947368421,5.537039028061499
+254,living room flow - Bonus,Sailing Soul(s),37.497399198856876,72.82608695652173,True,67.32186732186733,40.92307692307693,63.03200834097581,0.031157894736842107,29.36243414686593
+255,As It Was,As It Was,19.494705701366996,15.217391304347824,False,45.45454545454546,72.51282051282051,35.51369994310668,0.10631578947368422,67.10031179443072
+256,Feel It,WITHERED,17.7301288896641,76.08695652173913,False,57.739557739557746,58.46153846153846,3.706689142097941,0.0,47.855069347382006
+257,AaAaAaAAaAaAAa (feat. HATSUNE MIKU),Owari,29.399147316178755,58.69565217391304,False,22.85012285012285,94.56410256410255,0.228998016646479,1.936842105263158,55.27362649177509
+258,Cold Island,"My Singing Monsters, Vol. 2 (Original Game Soundtrack)",18.977948940233336,64.13043478260869,False,68.3046683046683,56.717948717948715,30.944622322328406,0.000676842105263158,58.17654015697237
+259,Un-thinkable (I'm Ready) (feat. Drake) - Remix,Un-thinkable (I'm Ready) (feat. Drake) [Remix],41.194517685822696,82.6086956521739,False,46.805896805896815,59.38461538461539,75.59697179811606,0.0,20.438662509407592
+260,Happy Face,33,19.95944632047396,0.0,False,33.04668304668305,70.05128205128204,1.8063682225469775,0.0,35.70583808192668
+261,Go Kitty Go,Go Kitty Go,2.6329627260760553,0.0,False,91.03194103194105,88.61538461538461,55.036122504613836,3.1263157894736846,65.0575206966993
+262,Girlfriend,Girlfriend,30.83781933824727,19.565217391304348,False,75.30712530712532,34.05128205128205,12.356783819616805,0.0007621052631578948,18.93344801634233
+263,Rock DJ,Sing When You're Winning,36.75593267647637,76.08695652173913,False,68.55036855036855,76.71794871794872,2.7721050833023853,0.0,88.49586066014409
+264,Love Is A Long Road,Full Moon Fever,34.68285283649972,71.73913043478261,False,60.196560196560206,61.333333333333336,3.145938706820607,0.00803157894736842,49.252768519514035
+265,Stayed Gone,Hazbin Hotel (Original Soundtrack),21.986184518406674,73.91304347826086,True,28.501228501228503,83.28205128205127,7.528099515839767,0.0,43.66197183098592
+266,Casino,Casino,15.086952084047237,48.91304347826087,False,79.11547911547913,78.56410256410257,1.8894423611065827,0.04494736842105264,82.79754865068274
+267,dumb dumb,the rainbow cassette,11.541531585658621,39.130434782608695,False,77.76412776412778,45.94871794871795,22.844893812766927,0.04821052631578948,59.2516933663047
+268,Pull Up,Strictly 4 My Fans,27.272348976236287,61.95652173913043,True,40.90909090909091,59.794871794871796,12.149098473217792,0.0,28.394796258466833
+269,Pyramids,channel ORANGE,100.0,84.78260869565217,True,30.712530712530715,64.2051282051282,1.224849252629743,0.008021052631578948,12.052467476615416
+270,Friday I'm In Love,Wish,28.54683912338431,84.78260869565217,False,46.19164619164619,75.7948717948718,0.13034747710694813,0.007105263157894738,51.18804429631223
+271,Metronome,Metronome,32.57269965565037,22.82608695652174,False,62.653562653562666,50.05128205128206,0.7212122876121382,0.0005357894736842106,59.14417804537147
+272,On the Level,This Old Dog,30.90988534389634,73.91304347826086,False,51.96560196560197,46.05128205128205,9.625721514469793,41.89473684210527,52.15568218471133
+273,Come a Little Closer,Melophobia,31.230115644896934,80.43478260869564,False,35.62653562653563,77.33333333333333,2.7513365486624837,0.00010947368421052632,28.609826900333296
+274,Murder On The Dancefloor,Read My Lips (Deluxe Version),31.356278445971064,85.8695652173913,False,71.25307125307125,84.61538461538461,0.2424975641624148,0.002705263157894737,91.29125900440815
+275,Again,Again,34.656561035380186,50.0,False,32.06388206388206,89.84615384615385,4.610120398933645,0.0,27.857219653800666
+276,Ghostbusters,Ghostbusters (Original Motion Picture Soundtrack) [2016],30.347543520288284,58.69565217391304,False,66.7076167076167,88.51282051282051,0.9392819013311012,0.012421052631578947,66.45521986883132
+277,Tell Me Why - Radio Edit,Tell Me Why,20.736094672383928,77.17391304347825,False,49.631449631449634,90.87179487179488,0.14800073155086418,0.01168421052631579,69.25061821309538
+278,Blow My Brains Out,Tikkle Me,29.916849832984028,67.39130434782608,False,49.14004914004915,88.2051282051282,9.002665475272755,0.0016315789473684212,54.95108052897539
+279,Labyrinth,Hawaii: Part II,16.74106552079545,0.0,False,74.69287469287471,81.23076923076923,3.789763280657545,0.026947368421052633,38.286205784324274
+280,Taking What's Not Yours,Who Really Cares,26.748026226474593,84.78260869565217,False,69.04176904176904,91.28205128205128,67.49724328855459,0.0,70.86334802709386
+281,Deceptacon,Le Tigre,22.771344591918343,85.8695652173913,True,55.65110565110566,86.15384615384615,5.71085273484841,0.5189473684210527,62.15460703150199
+282,Bitter Sweet Symphony - Remastered 2016,Urban Hymns (Remastered 2016),55.42613517935447,90.21739130434783,False,25.307125307125304,91.58974358974359,3.478235261059027,0.0,51.61810558004516
+283,Are You Bored Yet? (feat. Clairo),Nothing Happens,21.518039206119447,82.6086956521739,False,65.35626535626537,67.58974358974359,16.198962727998534,0.002442105263157895,64.73497473389959
+284,505,Favourite Worst Nightmare (Standard Version),35.815102460994886,88.04347826086956,False,45.45454545454546,84.92307692307692,0.24561284435839997,0.006094736842105263,21.08375443500699
+285,MILLION DOLLAR BABY,MILLION DOLLAR BABY,17.196159509224977,89.13043478260869,False,86.24078624078624,69.02564102564102,10.10339781118752,0.03894736842105263,94.7317492742716
+286,The Reason,The Reason (20th Anniversary),31.88343844004965,90.21739130434783,False,39.8034398034398,66.35897435897436,1.3390761931492,0.0,3.257714224276959
+287,Belong to the City,PARTYNEXTDOOR TWO,6.390419957313078,85.8695652173913,True,53.071253071253075,46.97435897435898,73.62396100732545,0.14526315789473684,16.67562627674444
+288,Bed Peace,Sail Out,36.28665246646239,75.0,True,58.72235872235873,55.58974358974359,27.93318479954273,0.0038631578947368422,28.072250295667132
+289,Electric Pow Wow Drum,A Tribe Called Red,29.43451829911234,57.60869565217391,False,62.40786240786242,56.30769230769231,2.387887192464212,6.4526315789473685,58.606601440705305
+290,The Chain - 2004 Remaster,Rumours (Super Deluxe),38.96009321524243,93.47826086956522,False,48.52579852579853,66.25641025641026,0.9340897676711257,0.08652631578947369,47.640038705515536
+291,Free Bird,Pronounced' Leh-'Nerd 'Skin-'Nerd,91.33429925394344,84.78260869565217,False,12.162162162162161,83.07692307692307,7.704632060278929,0.0102,32.157832491129994
+292,Sum 2 Prove,My Turn,26.768832681015482,79.34782608695652,True,83.16953316953317,54.15384615384616,1.7544468859472244,0.0,39.79142027738953
+293,Break from Toronto,PARTYNEXTDOOR,6.615508002670207,89.13043478260869,True,54.668304668304664,67.07692307692308,2.065974905545743,0.4094736842105263,23.771637458337814
+294,Insane,Insane,18.059249230423614,80.43478260869564,False,69.53316953316954,70.56410256410255,20.04114163638026,0.0,81.61488012041718
+295,Lonely Boy,El Camino,24.47879822182413,73.91304347826086,False,25.307125307125304,86.97435897435898,0.43252965611751104,1.0263157894736843,61.18696914310289
+296,Alastor's Game,Alastor's Game,22.768129052142193,63.04347826086956,False,31.32678132678133,89.53846153846153,0.6609835371564245,0.00018842105263157895,75.91656811095582
+297,"Holding Out for a Hero - From ""Footloose"" Soundtrack",Secret Dreams and Forbidden Fire,53.73646161761753,80.43478260869564,False,57.24815724815725,67.7948717948718,2.5436512022634714,0.0011894736842105265,92.15138157187401
+298,Epoch - The Living Tombstone Remix,Neon : Remixes,23.959771665236957,65.21739130434783,False,39.680589680589684,63.6923076923077,25.129432623156063,0.0,63.33727556176756
+299,Low Down,My Turn (Deluxe),15.210088487400363,76.08695652173913,True,99.75429975429975,61.02564102564103,3.6755363401380885,0.0,12.482528760348348
+300,"Rhythm Is a Dancer - 7"" Edit",The Madman's Return,30.574901361098924,78.26086956521739,False,79.11547911547913,73.94871794871794,28.140870145941744,0.04315789473684211,71.83098591549297
+301,Phonky Town,Phonky Town,14.58438154449804,67.39130434782608,True,80.46683046683049,81.23076923076923,37.69439608029631,86.94736842105263,32.265347812063226
+302,The Safety Dance,Greatest,19.033748082248547,66.30434782608695,False,46.06879606879607,88.0,2.6163410735031256,0.0,62.90721427803462
+303,i wanna be your girlfriend,i wanna be your girlfriend,26.623187476531335,80.43478260869564,True,48.034398034398045,36.71794871794872,2.2321231826649526,0.08800000000000001,32.80292441672939
+304,There's Something Happening,Dinner Is Not Over / There's Something Happening / Keyman / Cupid,22.937228813428973,65.21739130434783,False,61.91646191646192,68.92307692307692,38.62898013909186,1.9684210526315793,95.16181055800453
+305,Honey,Honey,25.52971351680104,67.39130434782608,True,56.01965601965602,22.153846153846153,80.16604941889433,0.0,52.478228147511025
+306,Right My Wrongs,T R A P S O U L,35.00819017727071,85.8695652173913,False,48.280098280098294,43.58974358974359,35.82522796270519,0.0,27.104612407268036
+307,Young Girl A,Alive,29.74604772510711,72.82608695652173,False,58.84520884520885,80.0,1.7544468859472244,0.05231578947368422,27.534673691000968
+308,Love Me Again,Tribute,33.22526584853559,84.78260869565217,False,42.383292383292385,89.23076923076923,0.46991301846933325,0.06273684210526316,18.825932695409097
+309,Flashing Lights,Graduation,32.77357655328634,93.47826086956522,True,60.07371007371008,61.94871794871795,3.9559115577767554,0.0,42.15675733792066
+310,No. 1 Party Anthem,AM,33.83754317212096,93.47826086956522,False,43.611793611793615,69.12820512820512,34.2675878647126,9.336842105263159,60.32684657563703
+311,Goosebumps - Remix,Goosebumps (Remix),18.643343264244162,79.34782608695652,True,84.88943488943488,58.35897435897436,43.40574310626914,0.0,82.79754865068274
+312,Use Somebody,Only By The Night,31.497573212952304,86.95652173913044,False,15.479115479115485,70.87179487179486,0.5727172649368444,0.043894736842105264,14.525319858079776
+313,Bennie And The Jets - Remastered 2014,Goodbye Yellow Brick Road (Remastered),48.85923863687967,80.43478260869564,False,63.267813267813274,66.56410256410257,26.89475806754767,0.0008021052631578948,79.67960434361899
+314,This Comes From Inside,This Comes From Inside,26.398099431174202,63.04347826086956,False,32.923832923832926,49.02564102564103,19.72961361678174,0.0006600000000000001,1.6557359423717877
+315,Reckless (Don't Be So...) - Remastered,Semantics (Remastered),49.13161409130133,64.13043478260869,False,67.56756756756758,32.307692307692314,17.445074806392608,0.00873684210526316,19.471024621008496
+316,Jerk It Out,Love For The Streets,24.859556409151075,76.08695652173913,False,52.825552825552826,98.15384615384615,1.7752154205871258,0.0011263157894736843,88.49586066014409
+317,Memories (feat. Kid Cudi),One More Love,27.732171708976963,67.39130434782608,False,48.64864864864865,91.48717948717949,0.14903915828285924,0.00045684210526315795,36.24341468659284
+318,From A Woman,To Be Eaten Alive,22.28844560918327,69.56521739130434,False,17.321867321867323,35.58974358974359,3.831300349937348,0.0024000000000000002,12.697559402214814
+319,Housewife Radio,Thanks to You Song,30.984599440458176,59.78260869565217,False,46.31449631449632,90.87179487179488,44.96338320426174,0.0005842105263157895,95.26932587893778
+320,WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1),18.988919622041646,3.260869565217391,True,55.77395577395577,59.17948717948718,15.575906688801496,0.06094736842105263,12.697559402214814
+321,Burning Pile,O My Heart,37.439330261388164,76.08695652173913,False,44.840294840294845,74.97435897435898,6.572746922404311,0.10631578947368422,13.665197290613914
+322,I Can't Fix You (feat. Crusher-P),I Can't Fix You,40.57335033382739,72.82608695652173,False,38.20638820638821,79.07692307692308,0.004230550506147881,11.157894736842106,35.060746156327276
+323,I'd Rather Sleep,Intro Bonito,9.668193734242205,69.56521739130434,False,75.67567567567568,57.02564102564103,1.1313908467501876,35.47368421052632,87.52822277174499
+324,Can I Call You Tonight?,Fuzzybrain,40.57845737359779,81.52173913043478,False,60.31941031941033,83.8974358974359,13.914423917609398,95.89473684210527,49.575314482313736
+325,Radioactive,Night Visions,23.18501481332124,86.95652173913044,False,36.609336609336616,77.94871794871796,10.373388761506238,0.01136842105263158,21.40630039780669
+326,Candle Queen,Candle Queen,16.82864179915985,66.30434782608695,False,85.99508599508599,37.43589743589744,52.33621300142668,0.0,93.4415654230728
+327,"Paint It, Black",Aftermath,26.107943908583692,90.21739130434783,False,38.57493857493858,79.07692307692308,5.118949497611224,0.2568421052631579,61.724545747769064
+328,Blow My High,Focus More On Me (Deluxe),16.06353157792157,82.6086956521739,True,52.08845208845208,46.871794871794876,2.8032578852622367,0.0,7.1067627136867
+329,X Gon' Give It To Ya - Int'l Bonus track,Grand Champ,29.4118203445772,72.82608695652173,False,74.20147420147421,82.15384615384615,4.049369963656312,0.0,64.73497473389959
+330,When the War Is Over,Age Of Reason,42.41774829321151,39.130434782608695,False,36.48648648648649,45.743589743589745,13.395210551611866,0.0013894736842105266,27.534673691000968
+331,Firestarter,Firestarter,28.80029961191036,43.47826086956522,False,37.22358722358723,61.94871794871795,36.24059865550322,12.947368421052632,38.50123642619074
+332,Cigarette Ahegao,Public Void,22.65142372834137,63.04347826086956,True,61.91646191646192,26.769230769230766,10.030707939947867,2.273684210526316,11.837436834748953
+333,Baby Wyd (Remix) (feat. Latto & Lakeyah),Who is Nardo Wick?? (Deluxe),31.028103849534197,40.21739130434782,True,66.83046683046683,66.87179487179488,2.263275984624805,0.0,61.07945382216966
+334,To the Bone,Game On!,43.34590548029455,42.391304347826086,False,76.90417690417692,85.43589743589743,20.248826982779274,0.0,87.52822277174499
+335,Heaven 2 Hell,Heaven 2 Hell,16.627008299256378,61.95652173913043,False,80.5896805896806,60.410256410256416,36.55212667510173,0.0,88.71089130201055
+336,Digital Silence,Digital Silence,25.305949511225805,65.21739130434783,False,19.9017199017199,96.61538461538461,8.784595861553791,0.0008242105263157895,44.737125040318254
+337,Always n Forever (feat. Lil Baby),RY RY WORLD,25.119447988578408,76.08695652173913,True,59.45945945945946,44.20512820512821,27.10244341394668,0.0002042105263157895,19.686055262874962
+338,Lovers Rock,French Exit,28.312293589404888,93.47826086956522,False,50.245700245700256,86.87179487179488,0.00028764420476263197,0.5736842105263158,57.42393291043974
+339,Aftershock,Aftershock,31.429479349346884,58.69565217391304,False,66.09336609336609,92.1025641025641,27.310128760345695,3.178947368421053,70.6483173852274
+340,Paradise City,Appetite For Destruction,64.56849297064895,89.13043478260869,False,14.496314496314497,98.05128205128204,1.9725164996661875,0.728421052631579,37.85614450059134
+341,The Village,The Village,31.40924034366938,64.13043478260869,False,49.14004914004915,34.769230769230774,55.451493197411864,0.0,26.674551123535103
+342,Pompeii,Bad Blood,28.35523056096651,83.69565217391303,False,64.98771498771501,70.87179487179486,7.839627535438286,0.0,57.31641758950651
+343,Six Days - Remix,Six Days,31.83293549120897,75.0,False,67.44471744471744,90.66666666666667,13.499053224811373,0.020421052631578947,70.3257714224277
+344,Pretty Green Eyes (Sunset Ibiza Mix),Pretty Green Eyes (Sunset Ibiza Mix),36.77900893781975,14.130434782608695,False,55.15970515970516,92.61538461538461,0.49587368676920984,6.631578947368421,45.59724760778412
+345,Kickstart My Heart,Dr. Feelgood (Deluxe Version),41.57281693564099,6.521739130434782,False,38.6977886977887,97.74358974358974,0.1147710761270222,0.3136842105263158,20.976239114073756
+346,we fell in love in october,we fell in love in october / October Passed Me By,22.68187682490867,95.65217391304347,False,51.1056511056511,35.07692307692308,11.733727780419768,19.05263157894737,21.40630039780669
+347,Run Through The Jungle,Cosmo's Factory (Expanded Edition),22.794042546453483,65.21739130434783,False,60.31941031941033,60.307692307692314,4.921648418532163,6.189473684210527,87.74325341361146
+348,Reasons,Whispering Jack,38.15809881788456,40.21739130434782,False,61.793611793611795,61.84615384615385,20.768040348776804,0.010221052631578948,64.19739812923343
+349,ECHO - ReAdmission Remix,ECHO / ReAdmission Remix,33.33648582575778,32.608695652173914,False,39.31203931203931,96.41025641025641,0.619446467876622,0.09547368421052632,24.63176002580368
+350,The Less I Know The Better,Currents,28.766252680107655,94.56521739130434,True,60.196560196560206,73.43589743589743,1.1936964506698913,0.7136842105263158,80.32469626921838
+351,Honey I'm Home,Honey I'm Home,28.154353663330532,63.04347826086956,False,44.840294840294845,84.41025641025641,22.429523119968902,0.0004842105263157895,60.32684657563703
+352,Club Paradise,Care Package,41.533095515204494,75.0,True,23.0958230958231,72.3076923076923,78.71225199410125,0.003410526315789474,54.305988603375994
+353,Cosby Sweater,Walking Under Stars,29.031062157250254,71.73913043478261,True,79.11547911547913,80.61538461538461,65.31654715136496,0.00018210526315789473,82.15245672508334
+354,Remember the Name (feat. Styles of Beyond),The Rising Tied,31.447070264111616,72.82608695652173,True,66.09336609336609,83.17948717948717,6.05353355640678,0.0003021052631578948,90.53865175787551
+355,Wednesday Night Interlude,If You're Reading This It's Too Late,28.00208821454099,68.47826086956522,True,19.9017199017199,45.33333333333334,75.70081447131557,0.0007726315789473685,16.890656918610905
+356,Anonymous M,META,18.12185775879936,52.17391304347826,False,75.30712530712532,78.76923076923077,18.171973518789148,0.001673684210526316,90.10859047414259
+357,Cigarettes out the Window,Who Really Cares,25.482615261140623,92.39130434782608,False,58.353808353808354,65.12820512820512,12.46062649281631,0.0,59.789269970970864
+358,Iris,Dizzy up the Girl,42.614463895399716,100.0,False,20.270270270270274,70.87179487179486,0.12930905037495308,0.0008389473684210527,49.360283840447266
+359,Miss Wanna Die,Miss Wanna Die,26.36707888574353,65.21739130434783,False,58.968058968058976,83.17948717948717,15.783592035200508,0.0002336842105263158,53.23083539404366
+360,World's Smallest Violin,OK ORCHESTRA,22.03668746724736,2.1739130434782608,False,65.11056511056512,68.92307692307692,12.045255800018287,0.0,69.46564885496186
+361,Baby Blue - Remastered 2010,Straight Up (Remastered 2010 / Deluxe Edition),28.96032019138309,66.30434782608695,False,58.108108108108105,87.38461538461539,1.962132232346237,1.4105263157894739,51.295559617245466
+362,Traffic Jam,Traffic Jam,33.3048978428127,43.47826086956522,False,70.14742014742015,89.84615384615385,0.13553961076692345,0.016210526315789474,76.23911407375553
+363,Wicked Witch,Who is Nardo Wick?,18.726190798297424,60.8695652173913,True,65.11056511056512,62.974358974358985,0.26638137899830117,0.20631578947368423,30.545102677131496
+364,Murders,Hawaii: Part II,30.026178310211954,0.0,False,22.85012285012285,38.56410256410257,90.55031673884496,35.05263157894737,21.728846360606386
+365,Hell Is Forever,Hazbin Hotel (Original Soundtrack),14.453868305920995,72.82608695652173,True,66.95331695331694,79.17948717948718,22.117995100370383,0.0,96.6670250510698
+366,It Ain't Over 'Til It's Over,Mama Said,33.744670711931,85.8695652173913,False,64.98771498771501,55.794871794871796,43.82111379906717,0.976842105263158,95.91441780453717
+367,Dollhouse,Cry Baby (Deluxe Edition),31.704313752626184,78.26086956521739,False,70.63882063882065,70.15384615384615,22.844893812766927,0.0,55.596172454574784
+368,"Never Recover (Lil Baby & Gunna, Drake)",Drip Harder,24.682890659236257,78.26086956521739,True,74.07862407862407,67.8974358974359,7.0296546844821375,0.0,91.18374368347492
+369,Discord,Discord,24.502063625222647,75.0,False,64.74201474201476,82.66666666666666,0.8364776548635899,0.0035263157894736847,85.05537039028063
+370,Black Out Days,Voices,30.816634576898153,72.82608695652173,False,48.15724815724817,79.07692307692308,0.5249496352650715,2.0,42.15675733792066
+371,+♂(プラスダンシ),松下が二次元に恋する15の理由(通常盤),28.80029961191036,27.173913043478258,False,55.65110565110566,97.74358974358974,8.950744138673002,0.0,61.939576389635526
+372,Safe And Sound,In A Tidal Wave Of Mystery (Deluxe Edition),24.315372949171135,14.130434782608695,False,62.039312039312044,81.53846153846153,0.017782019358683437,0.3936842105263158,78.28190517148695
+373,"Loser, Baby",Hazbin Hotel (Original Soundtrack),20.971964246145248,75.0,True,40.90909090909091,51.6923076923077,51.60931428903013,0.0,63.444790882700794
+374,On Top,Flume,31.563018985644945,0.0,False,46.43734643734644,75.17948717948718,0.9932800913948444,0.005821052631578948,28.609826900333296
+375,Creep,Pablo Honey,32.9880722236434,98.91304347826086,True,44.840294840294845,41.64102564102564,1.0067796389107802,0.014000000000000002,7.1067627136867
+376,Overtime,Hardwood Classic,14.769180720555298,63.04347826086956,True,42.628992628992634,61.84615384615385,9.013049742592706,0.0,52.693258789377495
+377,You're the Voice,Whispering Jack,44.73293965579562,68.47826086956522,False,43.24324324324325,65.23076923076923,40.80967627628149,0.014526315789473684,73.5512310504247
+378,Stuck Inside,Stuck Inside,20.550728036114307,69.56521739130434,False,72.72727272727272,76.61538461538461,4.277823844695225,0.0,83.0125792925492
+379,Paris,Memories...Do Not Open,29.747182622833876,85.8695652173913,False,61.793611793611795,65.02564102564102,2.2321231826649526,0.00017473684210526317,19.471024621008496
+380,Triflin Hoes,Just Cause Y'all Waited 2,15.086952084047237,69.56521739130434,True,79.60687960687963,78.76923076923077,1.7025255493474716,0.04021052631578948,60.219331254703796
+381,High ft. Nicole Millar,High,30.975520258644117,60.8695652173913,False,46.06879606879607,79.8974358974359,0.1334627573029333,0.09136842105263158,37.10353725405871
+382,BIG DICK RANDY,BAROWEEN,16.129355646073467,68.47826086956522,True,57.985257985257995,52.923076923076934,17.964288172390138,0.0,53.23083539404366
+383,The Scientist,A Rush of Blood to the Head,46.410129342538234,95.65217391304347,False,50.00000000000001,42.871794871794876,75.90849981771458,0.001536842105263158,18.825932695409097
+384,Drop the Tapes,Limiter,31.20703939490253,10.869565217391305,False,54.668304668304664,87.38461538461539,5.04625962637157,96.10526315789475,64.30491345016667
+385,Shine,"Hints, Allegations & Things Left Unsaid",45.73675669511212,78.26086956521739,False,48.280098280098294,40.92307692307693,30.633094302729887,9.073684210526316,34.09310826792818
+386,On My Knees,On My Knees,37.217646909211304,65.21739130434783,False,65.47911547911548,56.1025641025641,3.478235261059027,6.48421052631579,27.104612407268036
+387,stacy's brother,stacy's brother,22.350297535291524,56.52173913043478,False,52.33415233415233,74.76923076923077,27.72549945314372,3.6947368421052635,46.99494677991614
+388,Miku,Miku,30.05322670225,73.91304347826086,False,69.65601965601965,70.66666666666666,28.03702747274224,0.04736842105263158,55.27362649177509
+389,The Nosebleed Section,The Calling,29.39422942981247,69.56521739130434,True,85.50368550368552,82.46153846153845,52.95926904062371,0.00013473684210526317,93.54908074400605
+390,Below the Surface,Below the Surface,13.357557101873809,0.0,False,69.4103194103194,40.71794871794872,35.09832925030865,0.0,56.133749059240955
+391,Sofia,Immunity,23.48254717113567,45.65217391304348,False,72.97297297297297,61.02564102564103,62.09742428218025,0.3915789473684211,64.84249005483282
+392,Afraid,I Love You.,35.36114337029212,82.6086956521739,True,38.57493857493858,69.43589743589743,0.9257823538151654,32.526315789473685,34.20062358886141
+393,House Of The Rising Sun,The Animals,39.16191585720105,79.34782608695652,False,17.813267813267814,57.43589743589744,0.03948513805738022,22.947368421052634,20.438662509407592
+394,Lose Control,Lose Control,19.699743894450737,75.0,False,55.03685503685504,51.5897435897436,13.395210551611866,0.0,52.90828943124396
+395,Better Now,beerbongs & bentleys,31.593282917459142,86.95652173913044,True,64.37346437346437,56.82051282051282,34.37143053791211,0.0,32.48037845392969
+396,Busy Earnin',Jungle,22.23151156944131,69.56521739130434,False,49.3857493857494,88.1025641025641,21.702624407572358,0.0005168421052631579,76.02408343188905
+397,"Kernkraft 400 - DJ Gius Mix, Radio Edit",Kernkraft 400 Single Mixes,27.05369201043146,66.30434782608695,False,69.28746928746929,51.6923076923077,0.4304528026535209,89.89473684210527,27.857219653800666
+398,Texas,AMAR,15.490408225909324,83.69565217391303,True,75.42997542997543,62.15384615384615,1.2975391238693974,0.0,33.66304698419525
+399,See You Again (feat. Kali Uchis),Flower Boy,21.969350194560462,95.65217391304347,True,50.12285012285013,54.87179487179488,38.52513746589236,0.0007884210526315791,62.58466831523493
+400,Christmas Kids,I Can't Handle Change,13.515686181352283,78.26086956521739,True,33.90663390663391,74.87179487179488,1.0794695101504344,12.000000000000002,55.70368777550802
+401,Go Kitty Go,Go Kitty Go,2.673062453320785,29.34782608695652,False,90.54054054054055,50.25641025641026,8.691137455674237,0.0005200000000000001,44.522094398451785
+402,all I want is you,all I want is you,16.48949652091467,79.34782608695652,True,38.08353808353809,100.0,11.629885107220261,0.0,79.67960434361899
+403,FUKOUNA GIRL,FUKOUNA GIRL,32.05310565019982,66.30434782608695,False,32.30958230958231,99.38461538461539,37.69439608029631,0.3273684210526316,32.050317170196756
+404,"Sex, Drugs, Etc.",Pineapple Sunrise,25.07102568178712,86.95652173913044,False,51.597051597051596,83.8974358974359,1.411766064388854,0.9221052631578949,46.45737017524998
+405,Outside (feat. Ellie Goulding),Motion,30.836684440520514,92.39130434782608,False,60.93366093366094,81.94871794871794,22.117995100370383,0.0,40.86657348672186
+406,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),28.499930021128016,59.78260869565217,False,51.842751842751845,80.61538461538461,1.629835678107817,0.0006873684210526316,7.7518546392860985
+407,That’s So True,The Secret of Us (Deluxe),19.30498863894345,96.73913043478261,True,49.631449631449634,80.41025641025641,22.22183777356989,0.0,35.92086872379314
+408,the village - mtf version,the village (mtf version),22.670527847641097,42.391304347826086,False,55.40540540540541,36.20512820512821,94.08096762762817,0.0,30.115041393398563
+409,Fighter,Cheeseburger Family / Fighter,34.15531453561289,66.30434782608695,False,58.353808353808354,40.41025641025641,50.57088755703507,0.4294736842105264,27.6421890119342
+410,Relaxed Scene,Mystery Movie,6.201459485808048,71.73913043478261,False,48.8943488943489,0.43076923076923057,97.19624782361335,62.73684210526316,19.578539941941727
+411,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Hands All Over (Revised International Standard version),25.961731255236167,88.04347826086956,False,70.27027027027026,75.58974358974359,1.2352335199496938,0.0,63.014729598967854
+412,No Church In The Wild,Watch The Throne,39.393813300267695,82.6086956521739,True,61.91646191646192,74.46153846153847,25.337117969555074,1.8736842105263158,55.811203096441254
+413,Highest In The Room,Dance Fruits Music,20.72701549056987,0.0,True,71.990171990172,71.28205128205127,40.498148256682974,0.05410526315789475,44.09203311471885
+414,Sweet Child O' Mine,Appetite For Destruction,55.199155634003084,94.56521739130434,False,36.24078624078624,95.17948717948717,9.345346296831126,8.873684210526317,63.014729598967854
+415,Ain't No Rest For The Wicked - Original Version,Cage The Elephant,21.04384109839019,71.73913043478261,False,59.582309582309584,91.28205128205128,6.198913298886089,0.0,95.0542952370713
+416,Casin,Points of Interest,7.928206377068705,58.69565217391304,False,100.0,65.02564102564102,7.621557921719324,3.663157894736842,74.5188689388238
+417,Headlock,Speak for Yourself,28.607556151765806,4.3478260869565215,False,80.46683046683049,35.58974358974359,83.0736442684805,0.0,82.79754865068274
+418,Paradise,Mylo Xyloto,40.56899989632449,51.086956521739125,False,36.73218673218673,57.53846153846154,5.285097774730435,0.009210526315789475,18.718417374475862
+419,シニタイちゃん,シニタイちゃん,28.43051210639173,56.52173913043478,False,63.3906633906634,98.15384615384615,3.415929657139323,31.05263157894737,45.38221696591765
+420,Punkrocker (feat. Iggy Pop) - As featured in Superman,Soft Machine,34.52888504112004,78.26086956521739,False,49.3857493857494,79.28205128205128,0.043327316965761954,68.94736842105264,28.824857542199766
