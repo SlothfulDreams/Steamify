@@ -1,38 +1,102 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
 import os
-import glob
 
 def seed_database():
     DATABASE_NAME = "steamify"
     engine = create_engine(f'mysql+pymysql://root@localhost/{DATABASE_NAME}')
-
-    print("Running the create tables script...")
-    execute_sql_file(engine, "../create_tables.sql")
     
-    print("Running the join tables script...")
+    # Run SQL scripts first
+    print("Running table creation script...")
+    execute_sql_file(engine, "../create_tables.sql")
+    sep()
+    
+    print("Running join tables script...")
     execute_sql_file(engine, "../join_tables.sql")
+    sep()
     
     spotify_csv_folder = "../../table_csvs/spotify"
-    spotify_files = glob.glob(f'{spotify_csv_folder}/*.csv')
-    
     steam_csv_folder = "../../table_csvs/steam"
-    steam_files = glob.glob(f'{steam_csv_folder}/*.csv')
-
-    if not spotify_files and not steam_files:
-        print("Warning: No CSV files found!")
-        return
     
-    print(f"Found {len(spotify_files)} Spotify files and {len(steam_files)} Steam files.")
-    print("Seeding the database...")
+    spotify_parent_tables = [
+        ('user', 'User'),
+        ('song', 'Song'),
+        ('song_genre', 'SongGenre'),
+        ('artist', 'Artist')
+    ]
     
-    insert_values(spotify_files, engine)
-    insert_values(steam_files, engine)
+    steam_parent_tables = [
+        ('game', 'Game'),
+        ('developer', 'Developer'),
+        ('game_genre', 'GameGenre'),
+        ('game_category', 'GameCategory')
+    ]
+    
+    spotify_join_tables = [
+        ('songs_genres', 'Songs_Genres'),
+        ('feature', 'Feature'),
+        ('listen', 'Listen')
+    ]
+    
+    steam_join_tables = [
+        ('develop', 'Develop'),
+        ('games_genres', 'Games_Genres'),
+        ('games_categories', 'Games_Categories')
+    ]
+    
+    print("Loading parent tables first...")
+    load_tables_by_name(spotify_csv_folder, spotify_parent_tables, engine)
+    load_tables_by_name(steam_csv_folder, steam_parent_tables, engine)
+    sep()
+    
+    print("Loading join tables...")
+    load_tables_by_name(spotify_csv_folder, spotify_join_tables, engine)
+    load_tables_by_name(steam_csv_folder, steam_join_tables, engine)
+    sep()
     
     engine.dispose()
     print("✓ Finished seeding the database! ✓")
-  
+
+def load_tables_by_name(folder, table_list, engine):
+    """Load specific tables by name in the given order"""
+    for csv_name, table_name in table_list:
+        csv_path = os.path.join(folder, f"{csv_name}.csv")
+        if os.path.exists(csv_path):
+            insert_csv(csv_path, table_name, engine)
+        else:
+            print(f"⚠ Warning: {csv_path} not found, skipping...")
+
+def insert_csv(csv_path, table_name, engine):
+    """Insert a single CSV file into the database"""
+    try:
+        print(f"Loading {csv_path} into {table_name}...")
+        df = pd.read_csv(csv_path)
+        
+        if table_name == 'Game' and 'median_playtime' in df.columns:
+            df.rename(columns={'median_playtime': 'median_playtime_minutes'}, inplace=True)
+        
+        if table_name == 'Games_Genres' and 'game_genre_id' in df.columns:
+            df.rename(columns={'game_genre_id': 'genre_id'}, inplace=True)
+        
+        if table_name == 'Games_Categories' and 'game_category_id' in df.columns:
+            df.rename(columns={'game_category_id': 'category_id'}, inplace=True)
+        
+        df = df.where(pd.notnull(df), None)
+        
+        df.to_sql(
+            table_name,
+            con=engine,
+            if_exists="append",
+            index=False,
+            chunksize=1000
+        )
+        print(f"✓ Inserted {len(df)} rows into {table_name}")
+    except Exception as e:
+        print(f"✗ Error processing {table_name}: {e}")
+        raise
+
 def execute_sql_file(engine, filepath):
+    """Execute a SQL script file"""
     try:
         with open(filepath, 'r') as file:
             sql_script = file.read()
@@ -41,7 +105,7 @@ def execute_sql_file(engine, filepath):
         
         with engine.connect() as connection:
             for statement in statements:
-                if statement: 
+                if statement:
                     connection.execute(text(statement))
                     connection.commit()
         
@@ -53,28 +117,8 @@ def execute_sql_file(engine, filepath):
         print(f"✗ Error executing {filepath}: {e}")
         raise
 
-def insert_values(files, engine):
-    for csv_path in files:
-        table_name = os.path.splitext(os.path.basename(csv_path))[0]
-        try:
-            print(f"Loading {csv_path} into {table_name}...")
-            df = pd.read_csv(csv_path)
-            
-            df = df.where(pd.notnull(df), None)  
-            
-            df.to_sql(
-                table_name,
-                con=engine,
-                if_exists="append",
-                index=False,
-                chunksize=1000
-            )
-            print(f"✓ Inserted {len(df)} rows into {table_name}")
-        except FileNotFoundError:
-            print(f"✗ File not found: {csv_path}")
-        except Exception as e:
-            print(f"✗ Error processing {table_name}: {e}")
-            raise 
+def sep():
+    print("="*50)
 
 if __name__ == "__main__":
     seed_database()
