@@ -118,7 +118,8 @@ def execute_sql_file(engine, filepath):
         raise
 
 def sep():
-    print("="*50)
+    print("="*100)
+    print("="*100)
 
 if __name__ == "__main__":
     seed_database()
