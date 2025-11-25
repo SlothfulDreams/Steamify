@@ -1,12 +1,21 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
 import os
+
+load_dotenv()
 
 def seed_database():
     DATABASE_NAME = "steamify"
-    engine = create_engine(f'mysql+pymysql://root:Boston2024!:@localhost/{DATABASE_NAME}')
     
-    # Run SQL scripts first
+    MYSQL_USER = os.getenv("MYSQL_USER", "root")
+    MYSQL_PASSWORD = os.getenv("MYSQL_PASSWORD", "")
+    MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
+    MYSQL_PORT = os.getenv("MYSQL_PORT", "3306")
+    
+    connection_string = f'mysql+pymysql://{MYSQL_USER}:{MYSQL_PASSWORD}@{MYSQL_HOST}:{MYSQL_PORT}/{DATABASE_NAME}'
+    engine = create_engine(connection_string)
+    
     print("Running table creation script...")
     execute_sql_file(engine, "../create_tables.sql")
     sep()
