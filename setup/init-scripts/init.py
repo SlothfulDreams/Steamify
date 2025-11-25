@@ -2,6 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 import os
 from dotenv import load_dotenv
+from urllib.parse import quote_plus
 
 load_dotenv()
 
@@ -9,7 +10,7 @@ def seed_database():
     DATABASE_NAME = "steamify"
     
     MYSQL_USER = os.getenv("MYSQL_USER", "root")
-    MYSQL_PASSWORD = os.getenv("MYSQL_PASSWORD", "")
+    MYSQL_PASSWORD = quote_plus(os.getenv("MYSQL_PASSWORD", ""))
     MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
     MYSQL_PORT = os.getenv("MYSQL_PORT", "3306")
     
@@ -45,29 +46,29 @@ def seed_database():
     steam_csv_folder = "../../table_csvs/steam"
     
     spotify_parent_tables = [
-        ('user', 'User'),
-        ('song', 'Song'),
-        ('song_genre', 'SongGenre'),
-        ('artist', 'Artist')
+        ('user', 'user'),
+        ('song', 'song'),
+        ('song_genre', 'song_genre'),
+        ('artist', 'artist')
     ]
     
     steam_parent_tables = [
-        ('game', 'Game'),
-        ('developer', 'Developer'),
-        ('game_genre', 'GameGenre'),
-        ('game_category', 'GameCategory')
+        ('game', 'game'),
+        ('developer', 'developer'),
+        ('game_genre', 'game_genre'),
+        ('game_category', 'game_category')
     ]
     
     spotify_join_tables = [
-        ('songs_genres', 'Songs_Genres'),
-        ('feature', 'Feature'),
-        ('listen', 'Listen')
+        ('songs_genres', 'songs_genres'),
+        ('feature', 'feature'),
+        ('listen', 'listen')
     ]
     
     steam_join_tables = [
-        ('develop', 'Develop'),
-        ('games_genres', 'Games_Genres'),
-        ('games_categories', 'Games_Categories')
+        ('develop', 'develop'),
+        ('games_genres', 'games_genres'),
+        ('games_categories', 'games_categories')
     ]
     
     print("Loading parent tables first...")
@@ -98,13 +99,13 @@ def insert_csv(csv_path, table_name, engine):
         print(f"Loading {csv_path} into {table_name}...")
         df = pd.read_csv(csv_path)
         
-        if table_name == 'Game' and 'median_playtime' in df.columns:
+        if table_name == 'game' and 'median_playtime' in df.columns:
             df.rename(columns={'median_playtime': 'median_playtime_minutes'}, inplace=True)
         
-        if table_name == 'Games_Genres' and 'game_genre_id' in df.columns:
+        if table_name == 'games_genres' and 'game_genre_id' in df.columns:
             df.rename(columns={'game_genre_id': 'genre_id'}, inplace=True)
         
-        if table_name == 'Games_Categories' and 'game_category_id' in df.columns:
+        if table_name == 'games_categories' and 'game_category_id' in df.columns:
             df.rename(columns={'game_category_id': 'category_id'}, inplace=True)
         
         df = df.where(pd.notnull(df), None)
