@@ -41,7 +41,7 @@ DROP FUNCTION IF EXISTS age_to_explicit;
 
 DELIMITER //
 
-CREATE FUNCTION age_to_explicit(age int) RETURNS int
+CREATE FUNCTION age_to_explicit(age int) RETURNS boolean
     DETERMINISTIC CONTAINS SQL
 BEGIN
     DECLARE explicit_var boolean;
@@ -106,7 +106,7 @@ DROP FUNCTION IF EXISTS genre_to_instrumentalness;
 
 DELIMITER //
 
-CREATE FUNCTION genre_to_bucket(genre VARCHAR(50)) RETURNS INT
+CREATE FUNCTION genre_to_instrumentalness(genre VARCHAR(50)) RETURNS INT
     DETERMINISTIC CONTAINS SQL
 BEGIN
     DECLARE bucket_var INT;
@@ -143,8 +143,9 @@ END //
 
 DELIMITER ;
 
--- Testing 
+-- Testing
 SELECT age_to_explicit(18);
 SELECT get_bucket_from_score(33, 4);
 SELECT instrumentalness_to_genre(0);
+SELECT genre_to_instrumentalness('RPG');
 SELECT genre_to_bucket('Sexual Content');
