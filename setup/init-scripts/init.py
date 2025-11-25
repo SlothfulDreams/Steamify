@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -13,7 +13,24 @@ def seed_database():
     MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
     MYSQL_PORT = os.getenv("MYSQL_PORT", "3306")
     
-    connection_string = f'mysql+pymysql://{MYSQL_USER}:{MYSQL_PASSWORD}@{MYSQL_HOST}:{MYSQL_PORT}/{DATABASE_NAME}'
+    if MYSQL_PASSWORD:
+        auth_string = f'{MYSQL_USER}:{MYSQL_PASSWORD}'
+    else:
+        auth_string = f'{MYSQL_USER}'
+    
+    # Connect without database to create it
+    connection_string_no_db = f'mysql+pymysql://{auth_string}@{MYSQL_HOST}:{MYSQL_PORT}'
+    temp_engine = create_engine(connection_string_no_db)
+    
+    print("Creating database if it doesn't exist...")
+    with temp_engine.connect() as connection:
+        connection.execute(text(f"DROP DATABASE IF EXISTS {DATABASE_NAME}"))
+        connection.execute(text(f"CREATE DATABASE {DATABASE_NAME}"))
+        connection.commit()
+    temp_engine.dispose()
+    
+    # Now connect to the specific database
+    connection_string = f'mysql+pymysql://{auth_string}@{MYSQL_HOST}:{MYSQL_PORT}/{DATABASE_NAME}'
     engine = create_engine(connection_string)
     
     print("Running table creation script...")
