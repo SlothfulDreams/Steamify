@@ -1,7 +1,3 @@
-DROP DATABASE IF EXISTS steamify;
-
-CREATE DATABASE steamify;
-
 USE steamify;
 
 DROP TABLE IF EXISTS User;
