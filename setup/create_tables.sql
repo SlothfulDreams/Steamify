@@ -14,7 +14,7 @@ CREATE TABLE song (
     song_name VARCHAR(255) NOT NULL,
     album VARCHAR(255),
     duration DECIMAL(10, 2) NOT NULL,
-    popularity INT NOT NULL,
+    popularity  DECIMAL(10, 6) NOT NULL,
     explicit BOOLEAN NOT NULL,
     danceability DECIMAL(10, 6) NOT NULL,
     energy DECIMAL(10, 6) NOT NULL,
@@ -51,8 +51,8 @@ CREATE TABLE game (
     game_name VARCHAR(255) NOT NULL,
     required_age INT NOT NULL,
     positive_negative_ratings_ratio DECIMAL(10, 6) NOT NULL,
-    median_playtime_minutes INT NOT NULL,
-    total_ratings INT NOT NULL,
+    median_playtime_minutes  DECIMAL(10, 6) NOT NULL,
+    total_ratings  DECIMAL(10, 6) NOT NULL,
     price DECIMAL(10, 2) NOT NULL
 );
 
