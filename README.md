@@ -83,14 +83,14 @@ Game_Category
 Idea for how to match attributes
 Three buckets where using buckets
 
-| Song                                                                         | Game                            | Matching Type         |
-|------------------------------------------------------------------------------|---------------------------------|-----------------------|
-| genre (only include top 20 in matching since there are a lot of song genres) | genre                           | genre function        |
-| duration                                                                     | median_playtime                 | bucket function       |
-| popularity                                                                   | total_ratings                   | bucket function       |
-| explicit                                                                     | required_age                    | explicit-age function |
-| danceability                                                                 | category or genre               | matching table        |
-| energy                                                                       | category or genre               | matching table        |
-| acousticness                                                                 | category or genre               | matching table        |
-| instrumentalness                                                             | category or genre               | matching table        |
-| valence                                                                      | positive_negative_ratings_ratio | bucket function       |
+| Song                                                                         | Game                            | Matching Type         | Person |
+|------------------------------------------------------------------------------|---------------------------------|-----------------------|--------|
+| genre (only include top 20 in matching since there are a lot of song genres) | genre                           | genre function        | Jane   |
+| duration                                                                     | median_playtime                 | bucket function       | Jane   |
+| popularity                                                                   | total_ratings                   | bucket function       | Jane   |
+| explicit                                                                     | required_age                    | explicit-age function | Jane   |
+| danceability                                                                 | category or genre               | matching table        | Aaron  |
+| energy                                                                       | category or genre               | matching table        | Aaron  |
+| acousticness                                                                 | category or genre               | matching table        | Aaron  |
+| instrumentalness                                                             | category or genre               | matching table        | Aaron  |
+| valence                                                                      | positive_negative_ratings_ratio | bucket function       | Jane   |
