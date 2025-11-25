@@ -4,7 +4,7 @@ import os
 
 def seed_database():
     DATABASE_NAME = "steamify"
-    engine = create_engine(f'mysql+pymysql://root@localhost/{DATABASE_NAME}')
+    engine = create_engine(f'mysql+pymysql://root:Boston2024!:@localhost/{DATABASE_NAME}')
     
     # Run SQL scripts first
     print("Running table creation script...")
