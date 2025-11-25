@@ -148,4 +148,3 @@ SELECT age_to_explicit(18);
 SELECT get_bucket_from_score(33, 4);
 SELECT instrumentalness_to_genre(0);
 SELECT genre_to_instrumentalness('RPG');
-SELECT genre_to_bucket('Sexual Content');
