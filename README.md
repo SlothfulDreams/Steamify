@@ -81,15 +81,16 @@ Game_Category
 **__Steamify Table(s)__**  
 
 Idea for how to match attributes
+Three buckets where using buckets
 
-| Song             | Game                                                  |
-|------------------|-------------------------------------------------------|
-| genre (only include top 20 in matching since there are a lot of song genres)           | genre                                     |
-| duration         | median_playtime                                       |
-| popularity       | total_ratings                                         |
-| explicit         | required_age                                          |
-| danceability     | category or genre                                     |
-| energy           | category or genre                                     |
-| acousticness     | category or genre                                     |
-| instrumentalness | category or genre                                     |
-| valence          | positive_negative_ratings_ratio |
+| Song                                                                         | Game                            | Matching Type         |
+|------------------------------------------------------------------------------|---------------------------------|-----------------------|
+| genre (only include top 20 in matching since there are a lot of song genres) | genre                           | genre function        |
+| duration                                                                     | median_playtime                 | bucket function       |
+| popularity                                                                   | total_ratings                   | bucket function       |
+| explicit                                                                     | required_age                    | explicit-age function |
+| danceability                                                                 | category or genre               | matching table        |
+| energy                                                                       | category or genre               | matching table        |
+| acousticness                                                                 | category or genre               | matching table        |
+| instrumentalness                                                             | category or genre               | matching table        |
+| valence                                                                      | positive_negative_ratings_ratio | bucket function       |
