@@ -10,6 +10,7 @@ def seed_database():
     DATABASE_NAME = "steamify"
     
     MYSQL_USER = os.getenv("MYSQL_USER", "root")
+    MYSQL_PASSWORD = quote_plus(os.getenv("MYSQL_PASSWORD", ""))
     MYSQL_HOST = os.getenv("MYSQL_HOST", "localhost")
     MYSQL_PORT = os.getenv("MYSQL_PORT", "3306")
     
