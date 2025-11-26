@@ -46,7 +46,7 @@ CREATE FUNCTION age_to_explicit(age int) RETURNS boolean
 BEGIN
     DECLARE explicit_var boolean;
 
-    SET explicit_var = age >= 18;
+    SET explicit_var = (age >= 18);
 
     RETURN explicit_var;
 END //
@@ -55,8 +55,6 @@ DELIMITER ;
 
 
 -- Testing
+SELECT get_bucket_from_score(33, 4);
 SELECT age_to_explicit(18);
 SELECT explicit_to_age(false);
-SELECT get_bucket_from_score(33, 4);
-SELECT instrumentalness_to_genre(0);
-SELECT genre_to_instrumentalness('RPG');
