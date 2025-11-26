@@ -1,20 +1,20 @@
 USE steamify;
 
-DROP TABLE IF EXISTS User;
+DROP TABLE IF EXISTS user;
 
-CREATE TABLE User (
+CREATE TABLE user (
     user_id INT PRIMARY KEY,
     user_name VARCHAR(255) NOT NULL
 );
 
-DROP TABLE IF EXISTS Song;
+DROP TABLE IF EXISTS song;
 
-CREATE TABLE Song (
+CREATE TABLE song (
     song_id INT PRIMARY KEY,
     song_name VARCHAR(255) NOT NULL,
     album VARCHAR(255),
     duration DECIMAL(10, 2) NOT NULL,
-    popularity INT NOT NULL,
+    popularity  DECIMAL(10, 6) NOT NULL,
     explicit BOOLEAN NOT NULL,
     danceability DECIMAL(10, 6) NOT NULL,
     energy DECIMAL(10, 6) NOT NULL,
@@ -23,49 +23,49 @@ CREATE TABLE Song (
     valence DECIMAL(10, 6) NOT NULL
 );
 
-DROP TABLE IF EXISTS SongGenre;
+DROP TABLE IF EXISTS song_genre;
 
-CREATE TABLE SongGenre (
+CREATE TABLE song_genre (
     song_genre_id INT PRIMARY KEY,
     song_genre_name VARCHAR(255) NOT NULL
 );
 
-DROP TABLE IF EXISTS Artist;
+DROP TABLE IF EXISTS artist;
 
-CREATE TABLE Artist (
+CREATE TABLE artist (
     artist_id INT PRIMARY KEY,
     artist_name VARCHAR(255) NOT NULL
 );
 
-DROP TABLE IF EXISTS Developer;
+DROP TABLE IF EXISTS developer;
 
-CREATE TABLE Developer (
+CREATE TABLE developer (
     developer_id INT PRIMARY KEY,
     developer_name VARCHAR(255) NOT NULL
 );
 
-DROP TABLE IF EXISTS Game;
+DROP TABLE IF EXISTS game;
 
-CREATE TABLE Game (
+CREATE TABLE game (
     game_id INT PRIMARY KEY,
     game_name VARCHAR(255) NOT NULL,
     required_age INT NOT NULL,
-    positive_negative_ratings_ratio DECIMAL(10, 6),
-    median_playtime_minutes INT NOT NULL,
-    total_ratings INT NOT NULL,
+    positive_negative_ratings_ratio DECIMAL(10, 6) NOT NULL,
+    median_playtime_minutes  DECIMAL(10, 6) NOT NULL,
+    total_ratings  DECIMAL(10, 6) NOT NULL,
     price DECIMAL(10, 2) NOT NULL
 );
 
-DROP TABLE IF EXISTS GameGenre;
+DROP TABLE IF EXISTS game_genre;
 
-CREATE TABLE GameGenre (
+CREATE TABLE game_genre (
     game_genre_id INT PRIMARY KEY,
     game_genre_name VARCHAR(255)
 );
 
-DROP TABLE IF EXISTS GameCategory;
+DROP TABLE IF EXISTS game_category;
 
-CREATE TABLE GameCategory (
+CREATE TABLE game_category (
     game_category_id INT PRIMARY KEY,
     game_category_name VARCHAR(255) NOT NULL
 );
