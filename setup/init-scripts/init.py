@@ -73,7 +73,8 @@ def seed_database():
     ]
 
     mapping_join_tables = [
-        ('genre_mapping', 'genre_mapping')
+        ('genre_mapping', 'genre_mapping'),
+        ('genre_to_song_metric_mapping', 'genre_to_song_metric_mapping')
     ]
     
     print("Loading parent tables first...")
