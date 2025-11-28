@@ -74,4 +74,12 @@ CREATE TABLE IF NOT EXISTS genre_mapping (
     PRIMARY KEY (song_genre_id, game_genre_id),
     FOREIGN KEY (song_genre_id) REFERENCES song_genre (song_genre_id),
     FOREIGN KEY (game_genre_id) REFERENCES game_genre (game_genre_id)
+DROP TABLE IF EXISTS play;
+
+CREATE TABLE IF NOT EXISTS play (
+    user_id INT NOT NULL,
+    game_id INT NOT NULL,
+    PRIMARY KEY (user_id, game_id),
+    FOREIGN KEY (user_id) REFERENCES user (user_id),
+    FOREIGN KEY (game_id) REFERENCES game (game_id)
 );
