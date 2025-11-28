@@ -63,3 +63,13 @@ CREATE TABLE IF NOT EXISTS games_categories (
     FOREIGN KEY (game_id) REFERENCES game (game_id),
     FOREIGN KEY (category_id) REFERENCES game_category (game_category_id)
 );
+
+DROP TABLE IF EXISTS play;
+
+CREATE TABLE IF NOT EXISTS play (
+    user_id INT NOT NULL,
+    game_id INT NOT NULL,
+    PRIMARY KEY (user_id, game_id),
+    FOREIGN KEY (user_id) REFERENCES user (user_id),
+    FOREIGN KEY (game_id) REFERENCES game (game_id)
+);
