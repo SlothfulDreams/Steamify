@@ -76,6 +76,11 @@ def seed_database():
     mapping_join_tables = [
         ('genre_mapping', 'genre_mapping')
     ]
+
+    mapping_join_tables = [
+        ('genre_mapping', 'genre_mapping'),
+        ('genre_to_song_metric_mapping', 'genre_to_song_metric_mapping')
+    ]
     
     print("Loading parent tables first...")
     load_tables_by_name(spotify_csv_folder, spotify_parent_tables, engine)
