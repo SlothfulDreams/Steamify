@@ -64,6 +64,16 @@ CREATE TABLE IF NOT EXISTS games_categories (
     FOREIGN KEY (category_id) REFERENCES game_category (game_category_id)
 );
 
+-- Mapping join tables between Spotify and Steam
+
+DROP TABLE IF EXISTS genre_mapping;
+
+CREATE TABLE IF NOT EXISTS genre_mapping (
+    song_genre_id INT NOT NULL,
+    game_genre_id INT NOT NULL,
+    PRIMARY KEY (song_genre_id, game_genre_id),
+    FOREIGN KEY (song_genre_id) REFERENCES song_genre (song_genre_id),
+    FOREIGN KEY (game_genre_id) REFERENCES game_genre (game_genre_id)
 DROP TABLE IF EXISTS play;
 
 CREATE TABLE IF NOT EXISTS play (

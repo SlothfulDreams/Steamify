@@ -44,6 +44,7 @@ def seed_database():
     
     spotify_csv_folder = "../../table_csvs/spotify"
     steam_csv_folder = "../../table_csvs/steam"
+    mapping_csv_folder = "../../table_csvs/mapping"
     
     spotify_parent_tables = [
         ('user', 'user'),
@@ -71,6 +72,10 @@ def seed_database():
         ('games_categories', 'games_categories'),
         ('play','play')
     ]
+
+    mapping_join_tables = [
+        ('genre_mapping', 'genre_mapping')
+    ]
     
     print("Loading parent tables first...")
     load_tables_by_name(spotify_csv_folder, spotify_parent_tables, engine)
@@ -80,6 +85,7 @@ def seed_database():
     print("Loading join tables...")
     load_tables_by_name(spotify_csv_folder, spotify_join_tables, engine)
     load_tables_by_name(steam_csv_folder, steam_join_tables, engine)
+    load_tables_by_name(mapping_csv_folder, mapping_join_tables, engine)
     sep()
     
     engine.dispose()
