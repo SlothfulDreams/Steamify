@@ -69,7 +69,12 @@ def seed_database():
     steam_join_tables = [
         ('develop', 'develop'),
         ('games_genres', 'games_genres'),
-        ('games_categories', 'games_categories')
+        ('games_categories', 'games_categories'),
+        ('play','play')
+    ]
+
+    mapping_join_tables = [
+        ('genre_mapping', 'genre_mapping')
     ]
 
     mapping_join_tables = [
