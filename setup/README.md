@@ -3,6 +3,9 @@
 ## Initialize the database, join tables, and seed the database with data
 ```bash
 source .venv/bin/activate
+```
+
+```bash
 python3 init-scripts/init.py
 ```
 
