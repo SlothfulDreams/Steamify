@@ -1,7 +1,14 @@
 # Setup
 
-**1. Open the `create_tables.sql` script and run that script in localhost with root permissions.**
-**2. Open the `join_tables.sql` script and run that scipt the same enviornment.**
-**3. Open the `setup-sql` script and run that in the same enviornment as the first two scripts.**
+## Initialize the database, join tables, and seed the database with data
+```bash
+source .venv/bin/activate
+```
 
-- This is where the data will be populated/seeded into the tables we just created.
+```bash
+python3 init-scripts/init.py
+```
+
+## Initialize the stored functions and procedures => Execute the functions.sql file
+
+## Run the queries => Execute the queries/recommendations.sql file

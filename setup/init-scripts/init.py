@@ -97,7 +97,6 @@ def seed_database():
     engine.dispose()
     print("✓ Finished seeding the database! ✓")
 
-
 def load_tables_by_name(folder, table_list, engine):
     """Load specific tables by name in the given order"""
     for csv_name, table_name in table_list:
