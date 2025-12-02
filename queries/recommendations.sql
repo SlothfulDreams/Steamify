@@ -1,9 +1,33 @@
 USE steamify;
 
-DROP PROCEDURE IF EXISTS get_user_audio_buckets;
+DROP FUNCTION IF EXISTS get_bucket_from_score;
 
 DELIMITER //
 
+-- Function: get_bucket_from_score
+-- Calculates an int bucket number by bucketing numeric values into n buckets
+CREATE FUNCTION get_bucket_from_score(score DECIMAL(10, 6), n INT) RETURNS INT
+    DETERMINISTIC CONTAINS SQL
+BEGIN
+    DECLARE category_index_var INT;
+
+    SET category_index_var = FLOOR(score / (100 / n));
+
+    IF category_index_var >= n THEN SET category_index_var = n - 1; END IF;
+
+    RETURN category_index_var + 1;
+END //
+
+DELIMITER ;
+
+-- 
+DROP PROCEDURE IF EXISTS get_user_audio_buckets;
+
+DELIMITER //
+    
+-- Procedure: get_user_audio_buckets
+-- Calculates a user's average audio profile from their listening history.
+-- Averages danceability, energy, acousticness, and instrumentalness across all songs, then bucket it into a 1-3 scale
 CREATE PROCEDURE get_user_audio_buckets(
   IN p_user_id       INT,
   OUT p_dance        INT,
@@ -28,6 +52,9 @@ DROP PROCEDURE IF EXISTS get_combined_audio_buckets;
 
 DELIMITER //
 
+-- Procedure: get_combined_audio_buckets
+-- Calculates a combined audio profile for two user's listening histories.
+-- Averages audio features across both user songs, then buckets it into a 1-3 scale.
 CREATE PROCEDURE get_combined_audio_buckets(
   IN p_user1_id      INT,
   IN p_user2_id      INT,
