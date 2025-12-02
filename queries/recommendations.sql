@@ -1,5 +1,25 @@
 USE steamify;
 
+-- Bucketing numeric values into n buckets
+DROP FUNCTION IF EXISTS get_bucket_from_score;
+
+DELIMITER //
+
+CREATE FUNCTION get_bucket_from_score(score DECIMAL(10, 6), n INT) RETURNS INT
+    DETERMINISTIC CONTAINS SQL
+BEGIN
+    DECLARE category_index_var INT;
+
+    SET category_index_var = FLOOR(score / (100 / n));
+
+    IF category_index_var >= n THEN SET category_index_var = n - 1; END IF;
+
+    RETURN category_index_var + 1;
+END //
+
+DELIMITER ;
+
+-- 
 DROP PROCEDURE IF EXISTS get_user_audio_buckets;
 
 DELIMITER //
