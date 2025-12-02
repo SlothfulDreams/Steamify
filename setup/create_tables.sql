@@ -60,7 +60,7 @@ DROP TABLE IF EXISTS game_genre;
 
 CREATE TABLE game_genre (
     game_genre_id INT PRIMARY KEY,
-    game_genre_name VARCHAR(255)
+    game_genre_name VARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS game_category;
