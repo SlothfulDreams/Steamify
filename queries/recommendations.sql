@@ -1,10 +1,11 @@
 USE steamify;
 
--- Bucketing numeric values into n buckets
 DROP FUNCTION IF EXISTS get_bucket_from_score;
 
 DELIMITER //
 
+-- Function: get_bucket_from_score
+-- Calculates an int bucket number by bucketing numeric values into n buckets
 CREATE FUNCTION get_bucket_from_score(score DECIMAL(10, 6), n INT) RETURNS INT
     DETERMINISTIC CONTAINS SQL
 BEGIN
