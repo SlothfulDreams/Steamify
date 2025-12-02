@@ -23,7 +23,10 @@ DELIMITER ;
 DROP PROCEDURE IF EXISTS get_user_audio_buckets;
 
 DELIMITER //
-
+    
+-- Procedure: get_user_audio_buckets
+-- Calculates a user's average audio profile from their listening history.
+-- Averages danceability, energy, acousticness, and instrumentalness across all songs, then bucket it into a 1-3 scale
 CREATE PROCEDURE get_user_audio_buckets(
   IN p_user_id       INT,
   OUT p_dance        INT,
@@ -48,6 +51,9 @@ DROP PROCEDURE IF EXISTS get_combined_audio_buckets;
 
 DELIMITER //
 
+-- Procedure: get_combined_audio_buckets
+-- Calculates a combined audio profile for two user's listening histories.
+-- Averages audio features across both user songs, then buckets it into a 1-3 scale.
 CREATE PROCEDURE get_combined_audio_buckets(
   IN p_user1_id      INT,
   IN p_user2_id      INT,
